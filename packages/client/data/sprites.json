@@ -7430,3 +7430,5 @@
     { "id": "scarablegplates" },
     { "id": "sentinelegplates" }
 ]
+
+// WebSocket player connections

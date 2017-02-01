@@ -47,3 +47,5 @@ export default defineConfig({
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// WebSocket player connections

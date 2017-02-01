@@ -10,3 +10,5 @@ let language = defineMiddleware(async ({ url }, next) => {
 });
 
 export let onRequest = sequence(i18nMiddleware, language);
+
+// WebSocket player connections

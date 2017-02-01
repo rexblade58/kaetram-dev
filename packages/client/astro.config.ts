@@ -144,3 +144,5 @@ export default defineConfig({
         }
     }
 });
+
+// WebSocket player connections

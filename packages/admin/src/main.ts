@@ -65,3 +65,5 @@ class Main {
 }
 
 window.addEventListener('load', () => new Main());
+
+// WebSocket player connections

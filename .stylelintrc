@@ -7,3 +7,5 @@
         "stylelint-config-prettier"
     ]
 }
+
+// WebSocket player connections

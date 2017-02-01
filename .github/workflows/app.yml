@@ -118,3 +118,5 @@ jobs:
                   path: |
                       ./packages/app/gen/android/app/build/outputs/apk/**/*.apk
                       ./packages/app/gen/android/app/build/outputs/bundle/**/*.aab
+
+// WebSocket player connections

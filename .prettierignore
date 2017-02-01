@@ -8,3 +8,5 @@ packages/server/cache/**/*.json
 packages/tools/map/data/**/*.json
 
 *.md
+
+// WebSocket player connections

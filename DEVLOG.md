@@ -150,3 +150,7 @@ server deployment and migration scripts
 
 latency measurement and handshake v2
 
+## extra - 2017-02-01
+
+WebSocket player connections
+

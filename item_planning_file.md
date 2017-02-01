@@ -217,3 +217,5 @@
       - anchovy
       - bass
       - snapper
+
+// WebSocket player connections

@@ -7,3 +7,5 @@
     "endOfLine": "auto",
     "overrides": [{ "files": "*.json", "options": { "printWidth": 120 } }]
 }
+
+// WebSocket player connections

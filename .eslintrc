@@ -130,3 +130,5 @@
     },
     "ignorePatterns": ["node_modules", "dist"]
 }
+
+// WebSocket player connections

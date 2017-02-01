@@ -284,3 +284,5 @@ If you have any questions, contact @kaetram on [Discord][discord].
 [license]: LICENSE 'Project License'
 [issues]: https://github.com/Kaetram/Kaetram-Open/issues 'Open Issues'
 [discord]: https://discord.gg/MmbGAaw 'Join Discord'
+
+// WebSocket player connections

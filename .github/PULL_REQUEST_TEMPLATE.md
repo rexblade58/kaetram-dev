@@ -17,3 +17,5 @@ Provide issue number which is resolved by the PR or describe what your changes p
 ### Changes
 
 Please describe any changes to the code you have made.
+
+// WebSocket player connections

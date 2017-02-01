@@ -7,3 +7,5 @@ export const onRequest = defineMiddleware((context, next) => {
 
     return next();
 });
+
+// WebSocket player connections
