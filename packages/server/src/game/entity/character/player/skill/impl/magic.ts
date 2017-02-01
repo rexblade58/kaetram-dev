@@ -9,3 +9,5 @@ export default class Magic extends Skill {
         super(Modules.Skills.Magic);
     }
 }
+
+// WebSocket server with player connections

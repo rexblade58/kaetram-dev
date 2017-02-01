@@ -73,3 +73,5 @@ export default class AchievementPacket extends Packet {
         super(Packets.Achievement, opcode, data);
     }
 }
+
+// WebSocket server with player connections

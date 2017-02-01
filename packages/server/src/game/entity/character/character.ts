@@ -1235,3 +1235,5 @@ export default abstract class Character extends Entity {
         this.deathICallback = callback;
     }
 }
+
+// WebSocket server with player connections

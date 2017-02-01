@@ -706,3 +706,5 @@ export default class Item extends Entity {
         this.despawnCallback = callback;
     }
 }
+
+// WebSocket server with player connections

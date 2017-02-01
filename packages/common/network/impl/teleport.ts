@@ -16,3 +16,5 @@ export default class TeleportPacket extends Packet {
         super(Packets.Teleport, undefined, data);
     }
 }
+
+// WebSocket server with player connections

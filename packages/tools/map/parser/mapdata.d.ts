@@ -101,3 +101,5 @@ export interface MapData {
     tilesets: Tileset[];
     layers: Layer[];
 }
+
+// WebSocket server with player connections

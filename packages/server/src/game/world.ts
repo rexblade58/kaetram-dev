@@ -328,3 +328,5 @@ export default class World {
         this.connectionCallback = callback;
     }
 }
+
+// WebSocket server with player connections

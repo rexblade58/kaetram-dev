@@ -20,3 +20,5 @@ export default class Legplates extends Equipment {
         this.movementModifier = item.movementModifier;
     }
 }
+
+// WebSocket server with player connections

@@ -13,3 +13,5 @@ export default defineConfig({
         define: { globalConfig: config }
     }
 });
+
+// WebSocket server with player connections

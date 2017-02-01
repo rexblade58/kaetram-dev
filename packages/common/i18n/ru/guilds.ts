@@ -10,3 +10,5 @@ export default {
     NOT_ALLOWED_GUESTS_JOIN: 'Гостям не разрешается вступать в гильдии.',
     NOT_ALLOWED_GUESTS_CREATE: 'Гости не могут создавать гильдии.'
 } as const;
+
+// WebSocket server with player connections

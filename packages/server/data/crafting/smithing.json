@@ -809,3 +809,5 @@
         }
     }
 }
+
+// WebSocket server with player connections

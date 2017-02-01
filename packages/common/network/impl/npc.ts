@@ -25,3 +25,5 @@ export default class NPCPacket extends Packet {
         super(Packets.NPC, opcode, data);
     }
 }
+
+// WebSocket server with player connections

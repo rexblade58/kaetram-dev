@@ -157,3 +157,5 @@ export default class ProgramData {
         return shader;
     }
 }
+
+// WebSocket server with player connections

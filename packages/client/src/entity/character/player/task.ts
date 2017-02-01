@@ -55,3 +55,5 @@ export default class Task {
         return this.stage > 0;
     }
 }
+
+// WebSocket server with player connections

@@ -334,3 +334,5 @@
         "attackRate": 800
     }
 }
+
+// WebSocket server with player connections

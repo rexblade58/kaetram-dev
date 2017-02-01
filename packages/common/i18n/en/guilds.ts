@@ -10,3 +10,5 @@ export default {
     NOT_ALLOWED_GUESTS_JOIN: 'Guests are not allowed to join guilds.',
     NOT_ALLOWED_GUESTS_CREATE: 'Guests are not allowed to create guilds.'
 } as const;
+
+// WebSocket server with player connections

@@ -47,3 +47,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
         super(Packets.Equipment, opcode, data);
     }
 }
+
+// WebSocket server with player connections

@@ -70,3 +70,5 @@ export default class Chest extends Areas {
         chestArea.chest = null;
     }
 }
+
+// WebSocket server with player connections

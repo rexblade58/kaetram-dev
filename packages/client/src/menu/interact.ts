@@ -116,3 +116,5 @@ export default class Interact extends Menu {
         this.closeCallback = callback;
     }
 }
+
+// WebSocket server with player connections

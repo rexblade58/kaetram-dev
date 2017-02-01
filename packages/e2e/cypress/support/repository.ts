@@ -90,3 +90,5 @@ declare global {
         }
     }
 }
+
+// WebSocket server with player connections

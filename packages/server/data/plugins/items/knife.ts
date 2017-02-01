@@ -15,3 +15,5 @@ export default class Knife implements Plugin {
         return true;
     }
 }
+
+// WebSocket server with player connections

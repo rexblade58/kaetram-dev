@@ -30,3 +30,5 @@ export default class Admin extends Model {
         log.info(`Received packet ${packet} from admin ${this.address}`);
     }
 }
+
+// WebSocket server with player connections
