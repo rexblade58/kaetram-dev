@@ -154,3 +154,7 @@ latency measurement and handshake v2
 
 WebSocket player connections
 
+## extra - 2017-02-02
+
+entity position and movement
+
