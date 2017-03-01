@@ -7,3 +7,5 @@ export default {
     TOTAL_LEVEL_REQUIREMENT:
         'Tu nivel total debe ser al menos {{level}} para equipar este artículo.'
 } as const;
+
+// player entity position and movement

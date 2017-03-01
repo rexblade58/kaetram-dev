@@ -28,3 +28,5 @@ export default class Ability {
         this.active = !this.active;
     }
 }
+
+// player entity position and movement

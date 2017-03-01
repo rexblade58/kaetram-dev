@@ -2719,3 +2719,5 @@ export default class Player extends Character {
         this.recentRegionsCallback = callback;
     }
 }
+
+// player entity position and movement

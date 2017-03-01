@@ -632,3 +632,5 @@ export default class EntitiesController {
         for (let entity of Object.values(this.entities)) callback(entity);
     }
 }
+
+// player entity position and movement

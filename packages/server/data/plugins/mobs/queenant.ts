@@ -141,3 +141,5 @@ export default class QueenAnt extends Default {
         this.mob.attackRange = 1;
     }
 }
+
+// player entity position and movement

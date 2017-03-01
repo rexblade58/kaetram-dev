@@ -16,3 +16,5 @@ Then('I am logged in successfully', function () {
     cy.wait(1000);
     cy.get('#health', { timeout: 60_000 }).should('be.visible');
 });
+
+// player entity position and movement

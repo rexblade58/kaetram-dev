@@ -60,3 +60,5 @@ export default class Handler {
         this.mongo.deleteCollection(collectionName, callback);
     }
 }
+
+// player entity position and movement

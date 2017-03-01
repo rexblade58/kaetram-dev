@@ -6,3 +6,5 @@ export default class MinersQuest2 extends Quest {
         super(key, Data);
     }
 }
+
+// player entity position and movement

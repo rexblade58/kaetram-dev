@@ -12,3 +12,5 @@ export interface SerializedDuration {
 export interface SerializedEffects {
     [effect: number]: SerializedDuration;
 }
+
+// player entity position and movement

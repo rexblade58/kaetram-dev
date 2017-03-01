@@ -9,3 +9,5 @@ export default class BlinkPacket extends Packet {
         super(Packets.Blink, undefined, instance);
     }
 }
+
+// player entity position and movement

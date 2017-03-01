@@ -7,3 +7,5 @@ export interface HitData {
     poison?: boolean;
     skills?: string[];
 }
+
+// player entity position and movement

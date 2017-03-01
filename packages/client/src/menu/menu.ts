@@ -150,3 +150,5 @@ export default abstract class Menu {
         this.showCallback = callback;
     }
 }
+
+// player entity position and movement

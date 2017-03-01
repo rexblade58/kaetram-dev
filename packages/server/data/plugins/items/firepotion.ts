@@ -8,3 +8,5 @@ export default class FirePotion implements Plugin {
         return true;
     }
 }
+
+// player entity position and movement

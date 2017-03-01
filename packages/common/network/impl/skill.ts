@@ -27,3 +27,5 @@ export default class SkillPacket extends Packet {
         super(Packets.Skill, opcode, data);
     }
 }
+
+// player entity position and movement

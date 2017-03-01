@@ -256,3 +256,5 @@ export default class ResourceSkill extends Skill {
         this.exhaustCallback = callback;
     }
 }
+
+// player entity position and movement

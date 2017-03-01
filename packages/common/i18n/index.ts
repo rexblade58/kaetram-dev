@@ -13,3 +13,5 @@ export let t = i18next.t.bind(i18next) as TFunction;
 export let getFixedT = i18next.getFixedT.bind(i18next) as GetFixedTFunction;
 
 export * from './options';
+
+// player entity position and movement

@@ -220,3 +220,5 @@ export default class Minigame {
         for (let player of this.playersInGame) callback(player);
     }
 }
+
+// player entity position and movement

@@ -15,3 +15,5 @@ export default {
     smelting,
     smithing
 };
+
+// player entity position and movement

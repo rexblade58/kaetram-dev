@@ -74,3 +74,5 @@ export default class Projectile extends Entity {
         this.impactCallback = callback;
     }
 }
+
+// player entity position and movement

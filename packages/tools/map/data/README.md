@@ -5,3 +5,4 @@ There will be little to no support in map creation from the developers due to ti
 Please refer to the following wiki article that outlines how all the objects on the map work. This includes tile properties:
 
 https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
+// player entity position and movement

@@ -72,3 +72,5 @@ export default class Chest extends Areas {
 }
 
 // WebSocket server with player connections
+
+// player entity position and movement

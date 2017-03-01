@@ -522,3 +522,5 @@ export default class Messages {
         this.resourceCallback = callback;
     }
 }
+
+// player entity position and movement

@@ -6,3 +6,5 @@ export enum Team {
     Prey,
     Hunter
 }
+
+// player entity position and movement

@@ -20,3 +20,5 @@ export default class Boots extends Equipment {
         this.movementModifier = item.movementModifier;
     }
 }
+
+// player entity position and movement

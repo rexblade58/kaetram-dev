@@ -7,3 +7,5 @@ export default class Cooking extends Skill {
         super(Modules.Skills.Cooking);
     }
 }
+
+// player entity position and movement

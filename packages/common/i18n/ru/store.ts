@@ -16,3 +16,5 @@ export default {
     INVALID_ITEM_COUNT: 'Вы ввели недопустимое количество товаров.',
     HOLLOW_ADMIN: 'Как администратор вы не можете взаимодействовать с экономикой.'
 } as const;
+
+// player entity position and movement

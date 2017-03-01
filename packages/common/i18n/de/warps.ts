@@ -13,3 +13,5 @@ export default {
         'Du musst 10 Sekunden nach Beendigung des Kampfes warten, um zu teleportieren zu können.',
     CANNOT_WARP_COOLDOWN: 'Du musst weitere {{time}} warten, um zu teleportieren zu können.'
 } as const;
+
+// player entity position and movement

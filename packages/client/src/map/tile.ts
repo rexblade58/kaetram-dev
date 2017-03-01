@@ -63,3 +63,5 @@ export default class Tile {
         return this.animationInfo[this.animationIndex].duration;
     }
 }
+
+// player entity position and movement

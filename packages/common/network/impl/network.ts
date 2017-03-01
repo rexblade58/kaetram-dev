@@ -15,3 +15,5 @@ export default class NetworkPacket extends Packet {
         super(Packets.Network, opcode, data);
     }
 }
+
+// player entity position and movement

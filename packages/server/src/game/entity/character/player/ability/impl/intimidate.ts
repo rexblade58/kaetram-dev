@@ -22,3 +22,5 @@ export default class Intimidate extends Ability {
         return super.activate(player);
     }
 }
+
+// player entity position and movement

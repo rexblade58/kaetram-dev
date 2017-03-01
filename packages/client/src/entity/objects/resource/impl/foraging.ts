@@ -7,3 +7,5 @@ export default class Foraging extends Resource {
         super(instance, Modules.EntityType.Foraging);
     }
 }
+
+// player entity position and movement
