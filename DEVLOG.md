@@ -162,3 +162,7 @@ entity position and movement
 
 map rendering engine
 
+## extra - 2017-03-04
+
+world state spatial grid
+
