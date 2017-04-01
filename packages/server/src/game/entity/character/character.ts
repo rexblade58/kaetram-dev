@@ -1239,3 +1239,5 @@ export default abstract class Character extends Entity {
 // WebSocket server with player connections
 
 // player entity position and movement
+
+// tile-based map rendering engine

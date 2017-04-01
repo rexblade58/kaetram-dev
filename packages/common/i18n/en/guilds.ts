@@ -12,3 +12,5 @@ export default {
 } as const;
 
 // WebSocket server with player connections
+
+// tile-based map rendering engine

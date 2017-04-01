@@ -6,3 +6,7 @@ WebSocket server with player connections
 
 player entity position and movement
 
+## v0.1 - 2017-04-01
+
+tile-based map rendering engine
+

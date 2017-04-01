@@ -103,3 +103,5 @@ export interface MapData {
 }
 
 // WebSocket server with player connections
+
+// tile-based map rendering engine

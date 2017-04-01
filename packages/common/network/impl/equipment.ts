@@ -51,3 +51,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // WebSocket server with player connections
 
 // player entity position and movement
+
+// tile-based map rendering engine
