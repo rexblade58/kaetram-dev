@@ -166,3 +166,7 @@ map rendering engine
 
 world state spatial grid
 
+## extra - 2017-04-05
+
+collision detection
+
