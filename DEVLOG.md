@@ -170,3 +170,7 @@ world state spatial grid
 
 collision detection
 
+## extra - 2017-04-06
+
+NPC AI pathfinding
+
