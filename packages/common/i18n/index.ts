@@ -15,3 +15,5 @@ export let getFixedT = i18next.getFixedT.bind(i18next) as GetFixedTFunction;
 export * from './options';
 
 // player entity position and movement
+
+// world state management with spatial grid

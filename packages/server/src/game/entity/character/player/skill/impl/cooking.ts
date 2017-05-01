@@ -9,3 +9,5 @@ export default class Cooking extends Skill {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

@@ -258,3 +258,5 @@ export default class ResourceSkill extends Skill {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

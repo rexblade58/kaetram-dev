@@ -17,3 +17,5 @@ You may NOT use this project or any parts therein to spread hate, racism, or any
 Any modification to the code indicates that you have read these licenses and agree to the terms and conditions.
 
 // player entity position and movement
+
+// world state management with spatial grid

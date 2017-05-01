@@ -152,3 +152,5 @@ export default abstract class Menu {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

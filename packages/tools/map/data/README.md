@@ -6,3 +6,5 @@ Please refer to the following wiki article that outlines how all the objects on 
 
 https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // player entity position and movement
+
+// world state management with spatial grid

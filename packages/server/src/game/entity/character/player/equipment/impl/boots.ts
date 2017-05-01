@@ -22,3 +22,5 @@ export default class Boots extends Equipment {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

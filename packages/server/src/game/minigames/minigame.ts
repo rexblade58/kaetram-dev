@@ -222,3 +222,5 @@ export default class Minigame {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

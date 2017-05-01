@@ -10,3 +10,7 @@ player entity position and movement
 
 tile-based map rendering engine
 
+## v0.1 - 2017-05-01
+
+world state management with spatial grid
+

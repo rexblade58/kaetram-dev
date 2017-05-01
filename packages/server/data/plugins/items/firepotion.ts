@@ -10,3 +10,5 @@ export default class FirePotion implements Plugin {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

@@ -25,3 +25,5 @@ jobs:
                   script: ${{ secrets.DEV_SERVER_SCRIPT }}
 
 // player entity position and movement
+
+// world state management with spatial grid

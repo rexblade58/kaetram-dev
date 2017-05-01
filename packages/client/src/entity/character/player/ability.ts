@@ -30,3 +30,5 @@ export default class Ability {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

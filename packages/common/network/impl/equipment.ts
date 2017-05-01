@@ -53,3 +53,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // player entity position and movement
 
 // tile-based map rendering engine
+
+// world state management with spatial grid

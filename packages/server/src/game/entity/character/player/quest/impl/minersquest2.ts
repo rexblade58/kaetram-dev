@@ -8,3 +8,5 @@ export default class MinersQuest2 extends Quest {
 }
 
 // player entity position and movement
+
+// world state management with spatial grid

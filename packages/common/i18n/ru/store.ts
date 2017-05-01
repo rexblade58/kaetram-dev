@@ -18,3 +18,5 @@ export default {
 } as const;
 
 // player entity position and movement
+
+// world state management with spatial grid
