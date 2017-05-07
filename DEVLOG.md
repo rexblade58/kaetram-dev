@@ -174,3 +174,7 @@ collision detection
 
 NPC AI pathfinding
 
+## extra - 2017-05-07
+
+inventory item management
+
