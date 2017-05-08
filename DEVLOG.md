@@ -178,3 +178,7 @@ NPC AI pathfinding
 
 inventory item management
 
+## extra - 2017-05-08
+
+quest objectives rewards
+
