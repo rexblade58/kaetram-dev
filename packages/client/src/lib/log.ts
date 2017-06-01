@@ -24,3 +24,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // WebSocket server with player connections
 
 // tile-based map rendering engine
+
+// collision detection for entities and terrain

@@ -710,3 +710,5 @@ export default class Item extends Entity {
 // WebSocket server with player connections
 
 // tile-based map rendering engine
+
+// collision detection for entities and terrain

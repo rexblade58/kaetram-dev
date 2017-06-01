@@ -78,3 +78,5 @@ export default class Chest extends Areas {
 // tile-based map rendering engine
 
 // world state management with spatial grid
+
+// collision detection for entities and terrain

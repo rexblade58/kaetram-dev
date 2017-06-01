@@ -14,3 +14,7 @@ tile-based map rendering engine
 
 world state management with spatial grid
 
+## v0.1 - 2017-06-01
+
+collision detection for entities and terrain
+

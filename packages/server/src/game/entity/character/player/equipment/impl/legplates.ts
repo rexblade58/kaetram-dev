@@ -24,3 +24,5 @@ export default class Legplates extends Equipment {
 // WebSocket server with player connections
 
 // tile-based map rendering engine
+
+// collision detection for entities and terrain

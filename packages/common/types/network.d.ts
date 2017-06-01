@@ -18,3 +18,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // WebSocket server with player connections
 
 // tile-based map rendering engine
+
+// collision detection for entities and terrain
