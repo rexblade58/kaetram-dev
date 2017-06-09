@@ -182,3 +182,7 @@ inventory item management
 
 quest objectives rewards
 
+## extra - 2017-06-09
+
+equipment stats calculations
+
