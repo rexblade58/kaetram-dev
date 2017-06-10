@@ -186,3 +186,7 @@ quest objectives rewards
 
 equipment stats calculations
 
+## extra - 2017-06-10
+
+combat damage formulas
+
