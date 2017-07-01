@@ -40,3 +40,5 @@ export default class Admin extends Model {
 // world state management with spatial grid
 
 // collision detection for entities and terrain
+
+// NPC spawning and basic AI pathfinding

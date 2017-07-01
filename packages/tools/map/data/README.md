@@ -8,3 +8,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // player entity position and movement
 
 // world state management with spatial grid
+
+// NPC spawning and basic AI pathfinding

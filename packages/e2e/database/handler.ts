@@ -64,3 +64,5 @@ export default class Handler {
 // player entity position and movement
 
 // world state management with spatial grid
+
+// NPC spawning and basic AI pathfinding

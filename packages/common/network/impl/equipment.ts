@@ -57,3 +57,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // world state management with spatial grid
 
 // collision detection for entities and terrain
+
+// NPC spawning and basic AI pathfinding

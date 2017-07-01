@@ -18,3 +18,7 @@ world state management with spatial grid
 
 collision detection for entities and terrain
 
+## v0.1 - 2017-07-01
+
+NPC spawning and basic AI pathfinding
+

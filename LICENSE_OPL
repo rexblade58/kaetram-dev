@@ -19,3 +19,5 @@ Any modification to the code indicates that you have read these licenses and agr
 // player entity position and movement
 
 // world state management with spatial grid
+
+// NPC spawning and basic AI pathfinding
