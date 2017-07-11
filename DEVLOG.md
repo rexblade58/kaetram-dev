@@ -190,3 +190,7 @@ equipment stats calculations
 
 combat damage formulas
 
+## extra - 2017-07-11
+
+PvP zones safe areas
+
