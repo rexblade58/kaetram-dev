@@ -194,3 +194,7 @@ combat damage formulas
 
 PvP zones safe areas
 
+## extra - 2017-07-12
+
+chat messaging system
+
