@@ -712,3 +712,5 @@ export default class Item extends Entity {
 // tile-based map rendering engine
 
 // collision detection for entities and terrain
+
+// inventory system with item management

@@ -169,3 +169,5 @@ export default class ProgramData {
 // collision detection for entities and terrain
 
 // NPC spawning and basic AI pathfinding
+
+// inventory system with item management

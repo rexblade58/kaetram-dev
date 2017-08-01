@@ -1247,3 +1247,5 @@ export default abstract class Character extends Entity {
 // collision detection for entities and terrain
 
 // NPC spawning and basic AI pathfinding
+
+// inventory system with item management

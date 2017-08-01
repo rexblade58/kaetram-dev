@@ -12,3 +12,5 @@ export default class CodersGlitch extends Quest {
 // tile-based map rendering engine
 
 // collision detection for entities and terrain
+
+// inventory system with item management

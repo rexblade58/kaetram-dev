@@ -42,3 +42,5 @@ export default class Admin extends Model {
 // collision detection for entities and terrain
 
 // NPC spawning and basic AI pathfinding
+
+// inventory system with item management

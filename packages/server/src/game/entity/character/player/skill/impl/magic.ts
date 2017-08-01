@@ -15,3 +15,5 @@ export default class Magic extends Skill {
 // tile-based map rendering engine
 
 // collision detection for entities and terrain
+
+// inventory system with item management

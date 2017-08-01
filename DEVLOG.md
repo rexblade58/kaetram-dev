@@ -22,3 +22,7 @@ collision detection for entities and terrain
 
 NPC spawning and basic AI pathfinding
 
+## v0.1 - 2017-08-01
+
+inventory system with item management
+
