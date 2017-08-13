@@ -198,3 +198,7 @@ PvP zones safe areas
 
 chat messaging system
 
+## extra - 2017-08-13
+
+packet serialization
+
