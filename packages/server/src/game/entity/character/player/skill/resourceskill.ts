@@ -262,3 +262,5 @@ export default class ResourceSkill extends Skill {
 // world state management with spatial grid
 
 // NPC spawning and basic AI pathfinding
+
+// quest system with objectives and rewards

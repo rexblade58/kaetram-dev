@@ -61,3 +61,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // NPC spawning and basic AI pathfinding
 
 // inventory system with item management
+
+// quest system with objectives and rewards

@@ -1249,3 +1249,5 @@ export default abstract class Character extends Entity {
 // NPC spawning and basic AI pathfinding
 
 // inventory system with item management
+
+// quest system with objectives and rewards

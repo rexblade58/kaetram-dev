@@ -80,3 +80,5 @@ export default class Projectile extends Entity {
 // world state management with spatial grid
 
 // NPC spawning and basic AI pathfinding
+
+// quest system with objectives and rewards

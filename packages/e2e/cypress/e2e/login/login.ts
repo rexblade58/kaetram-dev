@@ -22,3 +22,5 @@ Then('I am logged in successfully', function () {
 // world state management with spatial grid
 
 // NPC spawning and basic AI pathfinding
+
+// quest system with objectives and rewards

@@ -44,3 +44,5 @@ export default class Admin extends Model {
 // NPC spawning and basic AI pathfinding
 
 // inventory system with item management
+
+// quest system with objectives and rewards

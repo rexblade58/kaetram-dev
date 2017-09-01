@@ -26,3 +26,7 @@ NPC spawning and basic AI pathfinding
 
 inventory system with item management
 
+## v0.1 - 2017-09-01
+
+quest system with objectives and rewards
+
