@@ -206,3 +206,7 @@ packet serialization
 
 skill tree progression
 
+## extra - 2017-09-15
+
+player trading
+
