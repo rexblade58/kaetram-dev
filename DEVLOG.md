@@ -210,3 +210,7 @@ skill tree progression
 
 player trading
 
+## extra - 2017-09-16
+
+bank storage
+
