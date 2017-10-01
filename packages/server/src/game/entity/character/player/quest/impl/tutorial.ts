@@ -33,3 +33,5 @@ export default class Tutorial extends Quest {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

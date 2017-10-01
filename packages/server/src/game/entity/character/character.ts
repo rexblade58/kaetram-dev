@@ -1251,3 +1251,5 @@ export default abstract class Character extends Entity {
 // inventory system with item management
 
 // quest system with objectives and rewards
+
+// equipment and stats calculations

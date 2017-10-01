@@ -46,3 +46,5 @@ export default class Admin extends Model {
 // inventory system with item management
 
 // quest system with objectives and rewards
+
+// equipment and stats calculations

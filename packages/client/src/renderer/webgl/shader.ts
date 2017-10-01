@@ -173,3 +173,5 @@ export default class ProgramData {
 // inventory system with item management
 
 // quest system with objectives and rewards
+
+// equipment and stats calculations

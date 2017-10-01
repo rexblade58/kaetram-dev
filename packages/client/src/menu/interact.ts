@@ -124,3 +124,5 @@ export default class Interact extends Menu {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

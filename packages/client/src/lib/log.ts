@@ -28,3 +28,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

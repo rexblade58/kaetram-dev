@@ -30,3 +30,7 @@ inventory system with item management
 
 quest system with objectives and rewards
 
+## v0.1 - 2017-10-01
+
+equipment and stats calculations
+

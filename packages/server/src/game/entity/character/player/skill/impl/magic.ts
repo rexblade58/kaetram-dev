@@ -17,3 +17,5 @@ export default class Magic extends Skill {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

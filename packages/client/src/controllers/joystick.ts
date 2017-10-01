@@ -116,3 +116,5 @@ export default class JoystickController {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

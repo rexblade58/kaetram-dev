@@ -63,3 +63,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // inventory system with item management
 
 // quest system with objectives and rewards
+
+// equipment and stats calculations

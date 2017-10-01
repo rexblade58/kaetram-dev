@@ -23,3 +23,5 @@ export default class Knife implements Plugin {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

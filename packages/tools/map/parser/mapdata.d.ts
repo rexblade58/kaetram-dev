@@ -109,3 +109,5 @@ export interface MapData {
 // collision detection for entities and terrain
 
 // inventory system with item management
+
+// equipment and stats calculations

@@ -86,3 +86,5 @@ export default class Chest extends Areas {
 // inventory system with item management
 
 // quest system with objectives and rewards
+
+// equipment and stats calculations
