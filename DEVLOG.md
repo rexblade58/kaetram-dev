@@ -218,3 +218,7 @@ bank storage
 
 crafting recipes
 
+## extra - 2017-10-18
+
+world map minimap
+
