@@ -175,3 +175,5 @@ export default class ProgramData {
 // quest system with objectives and rewards
 
 // equipment and stats calculations
+
+// combat mechanics and damage formulas

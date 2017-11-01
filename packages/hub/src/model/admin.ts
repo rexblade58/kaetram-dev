@@ -48,3 +48,5 @@ export default class Admin extends Model {
 // quest system with objectives and rewards
 
 // equipment and stats calculations
+
+// combat mechanics and damage formulas

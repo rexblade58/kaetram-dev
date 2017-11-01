@@ -65,3 +65,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // quest system with objectives and rewards
 
 // equipment and stats calculations
+
+// combat mechanics and damage formulas

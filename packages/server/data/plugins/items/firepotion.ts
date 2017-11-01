@@ -16,3 +16,5 @@ export default class FirePotion implements Plugin {
 // NPC spawning and basic AI pathfinding
 
 // quest system with objectives and rewards
+
+// combat mechanics and damage formulas

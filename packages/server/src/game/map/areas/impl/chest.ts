@@ -88,3 +88,5 @@ export default class Chest extends Areas {
 // quest system with objectives and rewards
 
 // equipment and stats calculations
+
+// combat mechanics and damage formulas

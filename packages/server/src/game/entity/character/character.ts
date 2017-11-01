@@ -1253,3 +1253,5 @@ export default abstract class Character extends Entity {
 // quest system with objectives and rewards
 
 // equipment and stats calculations
+
+// combat mechanics and damage formulas

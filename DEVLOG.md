@@ -34,3 +34,7 @@ quest system with objectives and rewards
 
 equipment and stats calculations
 
+## v0.1 - 2017-11-01
+
+combat mechanics and damage formulas
+
