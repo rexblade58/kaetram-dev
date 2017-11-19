@@ -222,3 +222,7 @@ crafting recipes
 
 world map minimap
 
+## extra - 2017-11-19
+
+boss fight mechanics
+
