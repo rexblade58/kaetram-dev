@@ -226,3 +226,7 @@ world map minimap
 
 boss fight mechanics
 
+## extra - 2017-11-20
+
+party group play
+
