@@ -33,3 +33,5 @@ export default class Signs {
         return this.signs[coordinate];
     }
 }
+
+// packet serialization optimization

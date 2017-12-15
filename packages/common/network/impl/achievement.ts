@@ -83,3 +83,5 @@ export default class AchievementPacket extends Packet {
 // inventory system with item management
 
 // equipment and stats calculations
+
+// packet serialization optimization

@@ -16,3 +16,5 @@ export default {
     INVALID_ITEM_COUNT: 'You have entered an invalid amount of items.',
     HOLLOW_ADMIN: 'As an admin you cannot interact with the economy.'
 } as const;
+
+// packet serialization optimization

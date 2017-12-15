@@ -179,3 +179,5 @@ export default class Profile extends Menu {
         this.pickupCallback = callback;
     }
 }
+
+// packet serialization optimization

@@ -266,3 +266,5 @@ export default class ResourceSkill extends Skill {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// packet serialization optimization

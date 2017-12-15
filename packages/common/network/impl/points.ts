@@ -17,3 +17,5 @@ export default class PointsPacket extends Packet {
         super(Packets.Points, undefined, data);
     }
 }
+
+// packet serialization optimization

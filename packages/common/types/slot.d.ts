@@ -22,3 +22,5 @@ export interface SlotData {
     defenseStats?: Stats;
     bonuses?: Bonuses;
 }
+
+// packet serialization optimization

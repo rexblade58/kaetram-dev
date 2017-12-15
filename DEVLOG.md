@@ -38,3 +38,7 @@ equipment and stats calculations
 
 combat mechanics and damage formulas
 
+## v0.1 - 2017-12-15
+
+packet serialization optimization
+

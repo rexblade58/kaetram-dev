@@ -8,3 +8,5 @@ export default {
     TOTAL_LEVEL_REQUIREMENT:
         'Dein Gesamtlevel muss mindestens {{level}} sein, um diesen Gegenstand ausrüsten zu können.'
 } as const;
+
+// packet serialization optimization

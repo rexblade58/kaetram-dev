@@ -6,3 +6,5 @@ export default class Scavenger extends Quest {
         super(key, Data);
     }
 }
+
+// packet serialization optimization

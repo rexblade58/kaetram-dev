@@ -256,3 +256,5 @@ export default class Weapon extends Equipment {
         return data;
     }
 }
+
+// packet serialization optimization

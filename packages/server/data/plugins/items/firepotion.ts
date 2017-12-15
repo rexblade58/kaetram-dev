@@ -18,3 +18,5 @@ export default class FirePotion implements Plugin {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// packet serialization optimization

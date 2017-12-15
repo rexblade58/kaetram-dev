@@ -19,3 +19,5 @@
     "lastWarp": 0,
     "mapVersion": -1
 }
+
+// packet serialization optimization

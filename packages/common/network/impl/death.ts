@@ -9,3 +9,5 @@ export default class DeathPacket extends Packet {
         super(Packets.Death, undefined, instance);
     }
 }
+
+// packet serialization optimization

@@ -112,3 +112,5 @@ export default class OgreLord extends Default {
         this.mob.talkCallback?.(dialogue);
     }
 }
+
+// packet serialization optimization

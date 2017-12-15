@@ -1255,3 +1255,5 @@ export default abstract class Character extends Entity {
 // equipment and stats calculations
 
 // combat mechanics and damage formulas
+
+// packet serialization optimization

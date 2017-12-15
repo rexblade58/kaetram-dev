@@ -9,3 +9,5 @@ export default class Defense extends Skill {
         super(Modules.Skills.Defense);
     }
 }
+
+// packet serialization optimization

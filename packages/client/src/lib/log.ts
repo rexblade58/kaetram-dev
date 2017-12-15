@@ -30,3 +30,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // inventory system with item management
 
 // equipment and stats calculations
+
+// packet serialization optimization

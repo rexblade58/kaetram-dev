@@ -94,3 +94,5 @@ export default class Blob {
         return blob;
     }
 }
+
+// packet serialization optimization

@@ -34,3 +34,5 @@ export default {
         }
     }
 };
+
+// packet serialization optimization

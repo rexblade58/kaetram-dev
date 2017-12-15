@@ -16,3 +16,5 @@ await esbuild.build({
         `
     }
 });
+
+// packet serialization optimization

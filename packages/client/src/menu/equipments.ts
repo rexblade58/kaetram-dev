@@ -410,3 +410,5 @@ export default class Equipments extends Menu {
         this.unequipCallback = callback;
     }
 }
+
+// packet serialization optimization

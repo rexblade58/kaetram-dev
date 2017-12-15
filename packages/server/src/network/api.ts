@@ -101,3 +101,5 @@ export default class API {
             .catch(() => log.error('Could not send `isOnline` to hub.'));
     }
 }
+
+// packet serialization optimization

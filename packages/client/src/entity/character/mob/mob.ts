@@ -19,3 +19,5 @@ export default class Mob extends Character {
         return !this.hiddenName;
     }
 }
+
+// packet serialization optimization

@@ -69,3 +69,5 @@ jobs:
 
             - name: Build Packages
               run: yarn build
+
+// packet serialization optimization

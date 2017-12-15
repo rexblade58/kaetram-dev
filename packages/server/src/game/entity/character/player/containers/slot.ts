@@ -173,3 +173,5 @@ export default class Slot {
         return data;
     }
 }
+
+// packet serialization optimization

@@ -21,3 +21,5 @@
     },
     "githubPullRequests.ignoredPullRequestBranches": ["beta"]
 }
+
+// packet serialization optimization

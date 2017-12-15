@@ -120,3 +120,5 @@
         }
     }
 }
+
+// packet serialization optimization

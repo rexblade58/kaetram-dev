@@ -26,3 +26,5 @@ export default {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// packet serialization optimization

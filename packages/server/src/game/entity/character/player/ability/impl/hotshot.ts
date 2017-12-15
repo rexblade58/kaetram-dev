@@ -22,3 +22,5 @@ export default class HotShot extends Ability {
         return super.activate(player);
     }
 }
+
+// packet serialization optimization

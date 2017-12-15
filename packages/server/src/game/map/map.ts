@@ -404,3 +404,5 @@ export default class Map {
         }
     }
 }
+
+// packet serialization optimization

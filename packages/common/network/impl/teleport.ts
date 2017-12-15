@@ -26,3 +26,5 @@ export default class TeleportPacket extends Packet {
 // inventory system with item management
 
 // equipment and stats calculations
+
+// packet serialization optimization

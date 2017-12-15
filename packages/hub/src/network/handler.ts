@@ -122,3 +122,5 @@ export default class Handler {
         this.disconnectCallback = callback;
     }
 }
+
+// packet serialization optimization

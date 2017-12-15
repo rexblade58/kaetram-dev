@@ -16,3 +16,5 @@ export default class ListPacket extends Packet {
         super(Packets.List, opcode, info);
     }
 }
+
+// packet serialization optimization

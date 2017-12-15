@@ -177,3 +177,5 @@ export default class ProgramData {
 // equipment and stats calculations
 
 // combat mechanics and damage formulas
+
+// packet serialization optimization

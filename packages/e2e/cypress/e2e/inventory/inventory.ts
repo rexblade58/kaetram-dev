@@ -44,3 +44,5 @@ Then(
 // inventory system with item management
 
 // equipment and stats calculations
+
+// packet serialization optimization
