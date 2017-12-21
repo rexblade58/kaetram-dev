@@ -230,3 +230,7 @@ boss fight mechanics
 
 party group play
 
+## extra - 2017-12-21
+
+guild management
+
