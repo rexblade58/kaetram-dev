@@ -9,3 +9,5 @@ export default class PoisonPacket extends Packet {
         super(Packets.Poison, undefined, type);
     }
 }
+
+// hub cross-server

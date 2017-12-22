@@ -143,3 +143,5 @@ export default class QuestPacket extends Packet {
         super(Packets.Quest, opcode, data);
     }
 }
+
+// hub cross-server

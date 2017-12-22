@@ -9,3 +9,5 @@ export default class MusicPacket extends Packet {
         super(Packets.Music, undefined, newSong);
     }
 }
+
+// hub cross-server

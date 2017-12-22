@@ -9,3 +9,5 @@ export default class ConnectedPacket extends Packet {
         super(Packets.Connected);
     }
 }
+
+// hub cross-server

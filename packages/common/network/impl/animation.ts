@@ -17,3 +17,5 @@ export default class AnimationPacket extends Packet {
         super(Packets.Animation, undefined, data);
     }
 }
+
+// hub cross-server

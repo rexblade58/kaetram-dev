@@ -32,3 +32,5 @@ export default class PlayerPacket extends Packet {
         super(Packets.Player, opcode, data);
     }
 }
+
+// hub cross-server

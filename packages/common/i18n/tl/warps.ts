@@ -11,3 +11,5 @@ export default {
         'Kailangan mong mag hintay ng Sampung segundo pagkatapos mong lumaban upang makapag warp.',
     CANNOT_WARP_COOLDOWN: 'Kailangan mo mag hintay ng {{time}} para makapag warp.'
 } as const;
+
+// hub cross-server

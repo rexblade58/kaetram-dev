@@ -17,3 +17,5 @@ export default class LootBagPacket extends Packet {
         super(Packets.LootBag, opcode, info);
     }
 }
+
+// hub cross-server

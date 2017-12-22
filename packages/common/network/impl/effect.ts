@@ -16,3 +16,5 @@ export default class EffectPacket extends Packet {
         super(Packets.Effect, opcode, data);
     }
 }
+
+// hub cross-server

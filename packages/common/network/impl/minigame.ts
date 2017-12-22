@@ -20,3 +20,5 @@ export default class MinigamePacket extends Packet {
         super(Packets.Minigame, opcode, data);
     }
 }
+
+// hub cross-server

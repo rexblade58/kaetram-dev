@@ -115,3 +115,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // new quest content and NPC dialogue
 
 // server deployment and migration scripts
+
+// hub cross-server

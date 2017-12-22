@@ -17,3 +17,5 @@ export default class BubblePacket extends Packet {
         super(Packets.Bubble, opcode, data);
     }
 }
+
+// hub cross-server

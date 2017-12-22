@@ -22,3 +22,5 @@ export default class NotificationPacket extends Packet {
         super(Packets.Notification, opcode, data);
     }
 }
+
+// hub cross-server

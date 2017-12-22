@@ -18,3 +18,5 @@ export default class Interface extends Packet {
         super(Packets.Interface, opcode, data);
     }
 }
+
+// hub cross-server

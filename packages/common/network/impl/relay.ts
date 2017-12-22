@@ -7,3 +7,5 @@ export default class RelayPacket extends Packet {
         super(Packets.Relay, undefined, [username, [...(packet.serialize() as unknown[])]]);
     }
 }
+
+// hub cross-server

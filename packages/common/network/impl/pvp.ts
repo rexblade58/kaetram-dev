@@ -13,3 +13,5 @@ export default class PVPPacket extends Packet {
         super(Packets.PVP, undefined, data);
     }
 }
+
+// hub cross-server

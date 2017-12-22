@@ -11,3 +11,5 @@ export default class SyncPacket extends Packet {
         super(Packets.Sync, undefined, data);
     }
 }
+
+// hub cross-server

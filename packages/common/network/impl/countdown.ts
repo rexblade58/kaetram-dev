@@ -14,3 +14,5 @@ export default class CountdownPacket extends Packet {
         super(Packets.Countdown, undefined, data);
     }
 }
+
+// hub cross-server

@@ -22,3 +22,5 @@ export default class MovementPacket extends Packet {
         super(Packets.Movement, opcode, data);
     }
 }
+
+// hub cross-server

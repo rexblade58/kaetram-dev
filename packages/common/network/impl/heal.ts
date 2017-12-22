@@ -17,3 +17,5 @@ export default class HealPacket extends Packet {
         super(Packets.Heal, undefined, data);
     }
 }
+
+// hub cross-server

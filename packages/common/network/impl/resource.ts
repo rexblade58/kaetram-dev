@@ -16,3 +16,5 @@ export default class ResourcePacket extends Packet {
         super(Packets.Resource, undefined, data);
     }
 }
+
+// hub cross-server

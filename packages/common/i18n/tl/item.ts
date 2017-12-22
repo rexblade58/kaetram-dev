@@ -6,3 +6,5 @@ export default {
         'Iyong {{skill}} ay kailangang maging {{level}} para ma equip ito.',
     TOTAL_LEVEL_REQUIREMENT: 'Your total level must be at least {{level}} to equip this item.'
 } as const;
+
+// hub cross-server

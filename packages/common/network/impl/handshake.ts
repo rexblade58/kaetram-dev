@@ -37,3 +37,5 @@ export default class HandshakePacket extends Packet {
         super(Packets.Handshake, undefined, data);
     }
 }
+
+// hub cross-server

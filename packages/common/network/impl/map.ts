@@ -15,3 +15,5 @@ export default class MapPacket extends Packet {
         );
     }
 }
+
+// hub cross-server

@@ -19,3 +19,5 @@ export default class RespawnPacket extends Packet {
         });
     }
 }
+
+// hub cross-server

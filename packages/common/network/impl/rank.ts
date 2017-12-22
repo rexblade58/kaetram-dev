@@ -11,3 +11,5 @@ export default class RankPacket extends Packet {
         super(Packets.Rank, undefined, rank);
     }
 }
+
+// hub cross-server

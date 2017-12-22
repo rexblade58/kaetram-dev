@@ -11,3 +11,5 @@ export default class CameraPacket extends Packet {
         super(Packets.Camera, opcode);
     }
 }
+
+// hub cross-server

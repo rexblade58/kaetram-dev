@@ -24,3 +24,5 @@ export default class ListPacket extends Packet {
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// hub cross-server

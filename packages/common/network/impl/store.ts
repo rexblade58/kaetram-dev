@@ -54,3 +54,5 @@ export default class StorePacket extends Packet {
         super(Packets.Store, opcode, data);
     }
 }
+
+// hub cross-server

@@ -29,3 +29,5 @@ export default class SpawnPacket extends Packet {
         );
     }
 }
+
+// hub cross-server

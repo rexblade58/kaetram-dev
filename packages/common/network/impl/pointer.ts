@@ -26,3 +26,5 @@ export default class PointerPacket extends Packet {
         super(Packets.Pointer, opcode, data);
     }
 }
+
+// hub cross-server

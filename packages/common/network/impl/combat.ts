@@ -18,3 +18,5 @@ export default class CombatPacket extends Packet {
         super(Packets.Combat, opcode, data);
     }
 }
+
+// hub cross-server

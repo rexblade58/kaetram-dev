@@ -28,3 +28,5 @@ export default class FriendsPacket extends Packet {
         super(Packets.Friends, opcode, data);
     }
 }
+
+// hub cross-server

@@ -41,3 +41,5 @@ export default class AbilityPacket extends Packet {
         super(Packets.Ability, opcode, data);
     }
 }
+
+// hub cross-server

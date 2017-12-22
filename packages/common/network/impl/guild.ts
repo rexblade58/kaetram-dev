@@ -68,3 +68,5 @@ export default class GuildPacket extends Packet {
         super(Packets.Guild, opcode, data);
     }
 }
+
+// hub cross-server

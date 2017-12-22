@@ -21,3 +21,5 @@ export default class ContainerPacket extends Packet {
         super(Packets.Container, opcode, data);
     }
 }
+
+// hub cross-server

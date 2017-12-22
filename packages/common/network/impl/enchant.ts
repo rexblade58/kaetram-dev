@@ -16,3 +16,5 @@ export default class EnchantPacket extends Packet {
         super(Packets.Enchant, opcode, data);
     }
 }
+
+// hub cross-server

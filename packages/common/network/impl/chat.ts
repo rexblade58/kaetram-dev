@@ -19,3 +19,5 @@ export default class ChatPacket extends Packet {
         super(Packets.Chat, undefined, data);
     }
 }
+
+// hub cross-server

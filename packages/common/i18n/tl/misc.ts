@@ -84,3 +84,5 @@ export default {
     WELCOME_BACK: 'Maligayang pag balik {{name}}!',
     WHY_GO_THERE: 'Teka lang, bakit ako pupunta diyan?'
 } as const;
+
+// hub cross-server

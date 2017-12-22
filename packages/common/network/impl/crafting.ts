@@ -48,3 +48,5 @@ export default class CraftingPacket extends Packet {
         super(Packets.Crafting, opcode, data);
     }
 }
+
+// hub cross-server

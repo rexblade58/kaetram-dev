@@ -11,3 +11,5 @@ export default {
     NOT_ALLOWED_GUESTS_JOIN: 'Ang mga Guest ay hindi pwedeng sumali sa mga guild.',
     NOT_ALLOWED_GUESTS_CREATE: 'Ang mga guest ay hindi pwedeng gumawa nang guild.'
 } as const;
+
+// hub cross-server

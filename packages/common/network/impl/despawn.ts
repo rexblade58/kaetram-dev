@@ -14,3 +14,5 @@ export default class DespawnPacket extends Packet {
         super(Packets.Despawn, undefined, info);
     }
 }
+
+// hub cross-server

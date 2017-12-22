@@ -58,3 +58,5 @@ export default class TeleportPacket extends Packet {
 // new quest content and NPC dialogue
 
 // latency measurement and handshake v2
+
+// hub cross-server

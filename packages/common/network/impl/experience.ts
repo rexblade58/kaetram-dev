@@ -21,3 +21,5 @@ export default class ExperiencePacket extends Packet {
         super(Packets.Experience, opcode, data);
     }
 }
+
+// hub cross-server

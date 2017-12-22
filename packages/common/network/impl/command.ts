@@ -13,3 +13,5 @@ export default class CommandPacket extends Packet {
         super(Packets.Command, undefined, data);
     }
 }
+
+// hub cross-server
