@@ -6,3 +6,5 @@ export default class ScientistsPotion extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

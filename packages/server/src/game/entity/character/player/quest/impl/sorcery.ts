@@ -6,3 +6,5 @@ export default class Sorcery extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

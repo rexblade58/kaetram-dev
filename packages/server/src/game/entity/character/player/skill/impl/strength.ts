@@ -9,3 +9,5 @@ export default class Strength extends Skill {
         super(Modules.Skills.Strength);
     }
 }
+
+// analytics metrics

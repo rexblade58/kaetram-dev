@@ -7,3 +7,5 @@ export default class Crafting extends Skill {
         super(Modules.Skills.Crafting);
     }
 }
+
+// analytics metrics

@@ -6,3 +6,5 @@ export default class RicksRoll extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

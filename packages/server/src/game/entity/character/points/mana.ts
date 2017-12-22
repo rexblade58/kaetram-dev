@@ -45,3 +45,5 @@ export default class Mana extends Points {
         this.manaCallback = callback;
     }
 }
+
+// analytics metrics

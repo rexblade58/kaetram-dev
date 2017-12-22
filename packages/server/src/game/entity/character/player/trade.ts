@@ -570,3 +570,5 @@ export default class Trade {
         this.acceptCallback = callback;
     }
 }
+
+// analytics metrics

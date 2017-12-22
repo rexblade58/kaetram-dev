@@ -9,3 +9,5 @@ export default class Archery extends Skill {
         super(Modules.Skills.Archery);
     }
 }
+
+// analytics metrics

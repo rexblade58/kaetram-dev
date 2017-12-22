@@ -66,3 +66,5 @@ export default class Mining extends ResourceSkill {
         return player.inventory.hasSpace(Utils.doubleMining ? 2 : 1);
     }
 }
+
+// analytics metrics

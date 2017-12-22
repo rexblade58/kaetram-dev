@@ -116,3 +116,5 @@ export default abstract class Skill {
         this.experienceCallback = callback;
     }
 }
+
+// analytics metrics

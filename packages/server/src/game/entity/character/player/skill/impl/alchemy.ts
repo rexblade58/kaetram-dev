@@ -7,3 +7,5 @@ export default class Alchemy extends Skill {
         super(Modules.Skills.Alchemy);
     }
 }
+
+// analytics metrics

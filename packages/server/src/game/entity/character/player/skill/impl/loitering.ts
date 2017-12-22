@@ -7,3 +7,5 @@ export default class Loitering extends Skill {
         super(Modules.Skills.Loitering);
     }
 }
+
+// analytics metrics

@@ -178,3 +178,5 @@ export default class Statistics {
         return Math.floor(Date.now() / 1000);
     }
 }
+
+// analytics metrics

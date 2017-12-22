@@ -426,3 +426,5 @@ export default class Equipments {
         this.attackStyleCallback = callback;
     }
 }
+
+// analytics metrics

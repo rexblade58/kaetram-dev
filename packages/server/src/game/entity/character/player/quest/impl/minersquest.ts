@@ -6,3 +6,5 @@ export default class MinersQuest extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

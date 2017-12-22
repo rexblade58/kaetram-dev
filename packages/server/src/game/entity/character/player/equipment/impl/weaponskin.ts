@@ -7,3 +7,5 @@ export default class WeaponSkin extends Equipment {
         super(Modules.Equipment.WeaponSkin, key, count);
     }
 }
+
+// analytics metrics

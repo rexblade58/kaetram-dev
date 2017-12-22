@@ -273,3 +273,5 @@ export default class Quests {
         this.loadCallback = callback;
     }
 }
+
+// analytics metrics

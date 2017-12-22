@@ -6,3 +6,5 @@ export default class ClamChowder extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

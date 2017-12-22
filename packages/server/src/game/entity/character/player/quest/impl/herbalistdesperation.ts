@@ -6,3 +6,5 @@ export default class Scavenger extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

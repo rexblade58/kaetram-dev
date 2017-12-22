@@ -64,3 +64,5 @@ export default class Fishing extends ResourceSkill {
         return Utils.randomInt(0, 100) <= 10;
     }
 }
+
+// analytics metrics

@@ -298,3 +298,5 @@ export default class ResourceSkill extends Skill {
 // server deployment and migration scripts
 
 // latency measurement and handshake v2
+
+// analytics metrics

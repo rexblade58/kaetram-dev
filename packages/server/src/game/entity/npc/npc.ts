@@ -150,3 +150,5 @@ export default class NPC extends Entity {
         return false;
     }
 }
+
+// analytics metrics

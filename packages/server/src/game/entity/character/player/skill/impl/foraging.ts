@@ -37,3 +37,5 @@ export default class Foraging extends ResourceSkill {
         return true;
     }
 }
+
+// analytics metrics

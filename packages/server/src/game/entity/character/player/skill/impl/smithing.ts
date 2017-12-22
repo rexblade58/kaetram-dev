@@ -7,3 +7,5 @@ export default class Smithing extends Skill {
         super(Modules.Skills.Smithing);
     }
 }
+
+// analytics metrics

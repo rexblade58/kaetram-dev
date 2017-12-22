@@ -45,3 +45,5 @@ export default class HitPoints extends Points {
         this.hitPointsCallback = callback;
     }
 }
+
+// analytics metrics

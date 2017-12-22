@@ -14,3 +14,5 @@ export default class Scavenger extends Quest {
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// analytics metrics

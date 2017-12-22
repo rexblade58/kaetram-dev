@@ -6,3 +6,5 @@ export default class RoyalDrama extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

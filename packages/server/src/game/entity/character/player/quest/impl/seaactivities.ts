@@ -6,3 +6,5 @@ export default class SeaActivities extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

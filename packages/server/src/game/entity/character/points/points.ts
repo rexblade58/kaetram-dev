@@ -99,3 +99,5 @@ export default abstract class Points {
         return [this.points, this.maxPoints];
     }
 }
+
+// analytics metrics

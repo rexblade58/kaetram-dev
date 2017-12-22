@@ -6,3 +6,5 @@ export default class DesertQuest extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

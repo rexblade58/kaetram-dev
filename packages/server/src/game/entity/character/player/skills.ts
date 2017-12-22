@@ -292,3 +292,5 @@ export default class Skills {
         this.loadCallback = callback;
     }
 }
+
+// analytics metrics

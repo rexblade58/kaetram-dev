@@ -7,3 +7,5 @@ export default class Fletching extends Skill {
         super(Modules.Skills.Fletching);
     }
 }
+
+// analytics metrics

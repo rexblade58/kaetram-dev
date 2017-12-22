@@ -6,3 +6,5 @@ export default class AncientLands extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

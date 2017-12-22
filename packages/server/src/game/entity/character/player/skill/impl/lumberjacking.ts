@@ -68,3 +68,5 @@ export default class Lumberjacking extends ResourceSkill {
         return player.inventory.hasSpace(Utils.doubleLumberjacking ? 2 : 1);
     }
 }
+
+// analytics metrics

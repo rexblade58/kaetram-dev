@@ -374,3 +374,5 @@ abstract class Entity {
 }
 
 export default Entity;
+
+// analytics metrics

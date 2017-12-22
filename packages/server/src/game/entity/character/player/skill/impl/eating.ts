@@ -7,3 +7,5 @@ export default class Eating extends Skill {
         super(Modules.Skills.Eating);
     }
 }
+
+// analytics metrics

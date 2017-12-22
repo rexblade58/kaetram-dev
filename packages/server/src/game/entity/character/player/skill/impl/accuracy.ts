@@ -9,3 +9,5 @@ export default class Accuracy extends Skill {
         super(Modules.Skills.Accuracy);
     }
 }
+
+// analytics metrics

@@ -6,3 +6,5 @@ export default class ArtsAndCrafts extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

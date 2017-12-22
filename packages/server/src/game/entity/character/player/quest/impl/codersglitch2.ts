@@ -6,3 +6,5 @@ export default class CodersGlitch2 extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

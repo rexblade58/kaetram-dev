@@ -6,3 +6,5 @@ export default class Foresting extends Quest {
         super(key, Data);
     }
 }
+
+// analytics metrics

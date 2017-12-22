@@ -211,3 +211,5 @@ export default class Friends {
         return Object.keys(this.list);
     }
 }
+
+// analytics metrics

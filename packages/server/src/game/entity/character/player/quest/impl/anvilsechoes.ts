@@ -29,3 +29,5 @@ export default class AnvilsEchoes extends Quest {
         super.handleDoor(door, player);
     }
 }
+
+// analytics metrics
