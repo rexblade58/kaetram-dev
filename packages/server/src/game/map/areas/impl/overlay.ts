@@ -19,3 +19,5 @@ export default class Overlay extends Areas {
         super.message('overlay');
     }
 }
+
+// e2e tests v1.0

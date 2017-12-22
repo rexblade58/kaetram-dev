@@ -121,3 +121,5 @@ export default class Grids {
                 if (this.entityGrid[j]?.[i]) this.forEachEntityAt(i, j, callback);
     }
 }
+
+// e2e tests v1.0

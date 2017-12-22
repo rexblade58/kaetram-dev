@@ -25,3 +25,5 @@ export default class Globals {
         return this.signs;
     }
 }
+
+// e2e tests v1.0

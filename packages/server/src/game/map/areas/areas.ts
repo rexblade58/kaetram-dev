@@ -85,3 +85,5 @@ export default abstract class Areas {
         for (let area of this.areas) callback(area);
     }
 }
+
+// e2e tests v1.0

@@ -17353,3 +17353,5 @@ __metadata:
   checksum: bf40da12c4b576ffae84456fa80df5008fff61cba229925978bb91f790a5b741db15b2ba930e31e35fe6ef29ec7ff16a5a3b770bc5dfd09765b2a294863af530
   languageName: node
   linkType: hard
+
+// e2e tests v1.0

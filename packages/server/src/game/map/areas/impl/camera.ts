@@ -15,3 +15,5 @@ export default class Camera extends Areas {
         super.message('camera');
     }
 }
+
+// e2e tests v1.0

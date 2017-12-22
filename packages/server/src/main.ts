@@ -144,3 +144,5 @@ class Main {
 new Args();
 
 export default new Main();
+
+// e2e tests v1.0

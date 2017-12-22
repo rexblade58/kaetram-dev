@@ -41,3 +41,5 @@ export default class Signs {
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// e2e tests v1.0

@@ -254,3 +254,5 @@ export default class Minigame {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// e2e tests v1.0

@@ -221,3 +221,5 @@ export default class Coursing extends Minigame {
             });
     }
 }
+
+// e2e tests v1.0

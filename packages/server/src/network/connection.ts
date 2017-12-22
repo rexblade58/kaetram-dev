@@ -222,3 +222,5 @@ export default class Connection {
         this.closeCallback = callback;
     }
 }
+
+// e2e tests v1.0

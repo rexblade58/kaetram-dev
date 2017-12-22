@@ -232,3 +232,5 @@ export default class Region {
         for (let entity of this.joining) callback(entity);
     }
 }
+
+// e2e tests v1.0

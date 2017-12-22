@@ -362,3 +362,5 @@ export default class World {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// e2e tests v1.0

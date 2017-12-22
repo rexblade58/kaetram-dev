@@ -161,3 +161,5 @@ export default class TeamWar extends Minigame {
         this.blueTeamKills = 0;
     }
 }
+
+// e2e tests v1.0

@@ -50,3 +50,5 @@ export default class Loader {
         }
     }
 }
+
+// e2e tests v1.0

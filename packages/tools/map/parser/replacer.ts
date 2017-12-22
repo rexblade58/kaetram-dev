@@ -112,3 +112,5 @@ export default class Replacer {
 }
 
 new Replacer();
+
+// e2e tests v1.0

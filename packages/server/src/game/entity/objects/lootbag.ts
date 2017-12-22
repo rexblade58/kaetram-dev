@@ -240,3 +240,5 @@ export default class LootBag extends Entity {
         this.emptyCallback = callback;
     }
 }
+
+// e2e tests v1.0

@@ -305,3 +305,5 @@ export default class Area {
         this.spawnCallback = callback;
     }
 }
+
+// e2e tests v1.0

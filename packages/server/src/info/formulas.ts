@@ -407,3 +407,5 @@ export default {
         return Utils.randomInt(0, 100) < 8 * tier;
     }
 };
+
+// e2e tests v1.0

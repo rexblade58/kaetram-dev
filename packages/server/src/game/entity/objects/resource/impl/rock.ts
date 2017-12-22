@@ -11,3 +11,5 @@ export default class Rock extends Resource {
         this.setData(rocks[key as keyof typeof rocks]);
     }
 }
+
+// e2e tests v1.0

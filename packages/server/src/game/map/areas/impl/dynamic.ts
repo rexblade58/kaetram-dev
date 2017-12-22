@@ -35,3 +35,5 @@ export default class Dynamic extends Areas {
         }
     }
 }
+
+// e2e tests v1.0

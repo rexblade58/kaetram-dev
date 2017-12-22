@@ -38,3 +38,5 @@ export default abstract class WebSocket {
         this.initializedCallback = callback;
     }
 }
+
+// e2e tests v1.0

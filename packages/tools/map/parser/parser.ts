@@ -580,3 +580,5 @@ export default class ProcessMap {
         return this.map.tilesets!;
     }
 }
+
+// e2e tests v1.0

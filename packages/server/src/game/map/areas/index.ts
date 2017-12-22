@@ -15,3 +15,5 @@ export default {
     dynamic,
     minigame
 };
+
+// e2e tests v1.0

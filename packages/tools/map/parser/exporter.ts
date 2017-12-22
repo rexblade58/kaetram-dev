@@ -136,3 +136,5 @@ export default class Exporter {
 }
 
 new Exporter();
+
+// e2e tests v1.0

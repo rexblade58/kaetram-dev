@@ -105,3 +105,5 @@ export default class Chest extends Entity {
         this.respawnCallback = callback;
     }
 }
+
+// e2e tests v1.0

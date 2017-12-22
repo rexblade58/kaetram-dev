@@ -138,3 +138,5 @@ export default class Chest extends Areas {
 // new quest content and NPC dialogue
 
 // server deployment and migration scripts
+
+// e2e tests v1.0

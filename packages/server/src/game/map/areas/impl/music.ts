@@ -15,3 +15,5 @@ export default class Music extends Areas {
         super.message('music');
     }
 }
+
+// e2e tests v1.0

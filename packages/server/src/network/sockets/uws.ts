@@ -125,3 +125,5 @@ export default class UWS extends WebSocket {
         connection.handleClose();
     }
 }
+
+// e2e tests v1.0

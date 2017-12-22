@@ -43,3 +43,5 @@ export default class Effect extends Entity {
         this.despawnCallback = callback;
     }
 }
+
+// e2e tests v1.0

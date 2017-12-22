@@ -11,3 +11,5 @@ export default class Foraging extends Resource {
         this.setData(foragingSpots[key as keyof typeof foragingSpots]);
     }
 }
+
+// e2e tests v1.0

@@ -38,3 +38,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// e2e tests v1.0

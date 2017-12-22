@@ -801,3 +801,5 @@ export default class Regions {
         this.joiningCallback = callback;
     }
 }
+
+// e2e tests v1.0

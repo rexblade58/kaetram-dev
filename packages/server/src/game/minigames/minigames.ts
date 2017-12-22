@@ -64,3 +64,5 @@ export default class Minigames {
         }
     }
 }
+
+// e2e tests v1.0

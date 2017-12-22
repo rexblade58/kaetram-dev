@@ -140,3 +140,5 @@ export default class Client {
         this.send(new RelayPacket(username, packet));
     }
 }
+
+// e2e tests v1.0

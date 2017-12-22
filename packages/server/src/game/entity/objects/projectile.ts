@@ -108,3 +108,5 @@ export default class Projectile extends Entity {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// e2e tests v1.0

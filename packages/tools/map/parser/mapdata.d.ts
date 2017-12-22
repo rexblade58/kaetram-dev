@@ -143,3 +143,5 @@ export interface MapData {
 // new quest content and NPC dialogue
 
 // latency measurement and handshake v2
+
+// e2e tests v1.0

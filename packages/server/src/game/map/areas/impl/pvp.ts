@@ -12,3 +12,5 @@ export default class PVP extends Areas {
         super.message('PVP');
     }
 }
+
+// e2e tests v1.0

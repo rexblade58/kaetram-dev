@@ -30,3 +30,5 @@ export default class Lights {
         log.info(`Loaded ${this.map.lights.length} light${this.map.lights.length > 1 ? 's' : ''}.`);
     }
 }
+
+// e2e tests v1.0

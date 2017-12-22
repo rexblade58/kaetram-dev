@@ -40,3 +40,5 @@ export default class Light {
         };
     }
 }
+
+// e2e tests v1.0

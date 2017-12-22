@@ -193,3 +193,5 @@ export default class Network {
         return this.socketHandler.addresses[connection.address]?.lastTime;
     }
 }
+
+// e2e tests v1.0

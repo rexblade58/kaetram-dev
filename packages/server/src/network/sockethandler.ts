@@ -128,3 +128,5 @@ export default class SocketHandler {
         this.connectionCallback = callback;
     }
 }
+
+// e2e tests v1.0

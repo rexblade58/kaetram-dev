@@ -119,3 +119,5 @@ export default abstract class Resource extends Entity {
         this.stateCallback = callback;
     }
 }
+
+// e2e tests v1.0

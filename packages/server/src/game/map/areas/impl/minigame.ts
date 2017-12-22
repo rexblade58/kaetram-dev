@@ -19,3 +19,5 @@ export default class Minigame extends Areas {
         super.message('minigame');
     }
 }
+
+// e2e tests v1.0

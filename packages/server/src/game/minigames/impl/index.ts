@@ -5,3 +5,5 @@ export default {
     teamwar,
     coursing
 };
+
+// e2e tests v1.0

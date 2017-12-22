@@ -52,3 +52,5 @@ export default class Sign {
         );
     }
 }
+
+// e2e tests v1.0

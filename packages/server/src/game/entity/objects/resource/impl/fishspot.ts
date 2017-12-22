@@ -11,3 +11,5 @@ export default class FishSpot extends Resource {
         this.setData(fishSpots[key as keyof typeof fishSpots]);
     }
 }
+
+// e2e tests v1.0

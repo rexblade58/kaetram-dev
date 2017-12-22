@@ -11,3 +11,5 @@ export default class Tree extends Resource {
         this.setData(trees[key as keyof typeof trees]);
     }
 }
+
+// e2e tests v1.0
