@@ -17,3 +17,5 @@ export default {
     NO_REASON_TREE: 'There is no reason for you to cut this tree.',
     NO_REASON_FISHING: 'There is no reason for you to fish here.'
 } as const;
+
+// seasonal event system

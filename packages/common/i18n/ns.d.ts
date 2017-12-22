@@ -83,3 +83,5 @@ export type GetFixedTFunction = <
     ns?: N,
     keyPrefix?: K
 ) => (key: keyof KObject, options?: TOptions) => string;
+
+// seasonal event system

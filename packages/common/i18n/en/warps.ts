@@ -9,3 +9,5 @@ export default {
     CANNOT_WARP_COMBAT: 'You must wait 10 seconds after finishing combat to warp.',
     CANNOT_WARP_COOLDOWN: 'You must wait another {{time}} to warp.'
 } as const;
+
+// seasonal event system

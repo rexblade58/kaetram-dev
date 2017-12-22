@@ -16,3 +16,5 @@ export default {
 
     NO_REASON_TREE: 'There is no reason for you to cut this tree.'
 } as const;
+
+// seasonal event system

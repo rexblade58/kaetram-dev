@@ -7,3 +7,5 @@ export default {
     TOTAL_LEVEL_REQUIREMENT:
         'Чтобы экипировать этот предмет, ваш общий уровень должен быть не ниже {{level}}.'
 } as const;
+
+// seasonal event system

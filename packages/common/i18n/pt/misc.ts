@@ -113,3 +113,5 @@ export default {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// seasonal event system

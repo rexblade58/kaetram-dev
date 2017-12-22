@@ -188,3 +188,5 @@ declare module 'i18next' {
         resources: typeof defaultResource;
     }
 }
+
+// seasonal event system

@@ -5,3 +5,5 @@ export default {
     FAILED_ENCHANT: 'Intentaste encantar pero no pasó nada.',
     SUCCESSFUL_ENCHANT: 'Encantaste con éxito tu objeto.'
 } as const;
+
+// seasonal event system

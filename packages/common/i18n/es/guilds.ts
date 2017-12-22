@@ -10,3 +10,5 @@ export default {
     NOT_ALLOWED_GUESTS_JOIN: 'Los invitados no pueden unirse a los gremios.',
     NOT_ALLOWED_GUESTS_CREATE: 'Los invitados no pueden crear gremios.'
 } as const;
+
+// seasonal event system

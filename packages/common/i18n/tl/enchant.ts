@@ -5,3 +5,5 @@ export default {
     FAILED_ENCHANT: 'Triny mong mag enchant pero walang nangyare.',
     SUCCESSFUL_ENCHANT: 'Matagumpay mong na enchant ang iyong item.'
 } as const;
+
+// seasonal event system

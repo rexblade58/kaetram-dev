@@ -82,3 +82,5 @@ export default {
     WELCOME_BACK: '¡Bienvenido de nuevo a {{name}}!',
     WHY_GO_THERE: 'Espera, ¿por qué querría entrar allí?'
 } as const;
+
+// seasonal event system

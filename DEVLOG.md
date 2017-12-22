@@ -270,3 +270,7 @@ auto-save crash recovery
 
 localization i18n
 
+## extra - 2017-12-22
+
+seasonal event system
+

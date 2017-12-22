@@ -16,3 +16,5 @@ export default {
     INVALID_ITEM_COUNT: 'Has introducido una cantidad no válida de artículos.',
     HOLLOW_ADMIN: 'Como administrador no puedes interactuar con la economía.'
 } as const;
+
+// seasonal event system

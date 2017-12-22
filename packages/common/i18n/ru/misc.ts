@@ -77,3 +77,5 @@ export default {
     WELCOME_BACK: 'С возвращением в {{name}}!',
     WHY_GO_THERE: 'Погодите, зачем мне туда идти?'
 } as const;
+
+// seasonal event system

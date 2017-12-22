@@ -11,3 +11,5 @@ export default {
         'Debes esperar 10 segundos después de terminar el combate para teletransportarte.',
     CANNOT_WARP_COOLDOWN: 'Debes esperar otro {{time}} para teletransportarte.'
 } as const;
+
+// seasonal event system

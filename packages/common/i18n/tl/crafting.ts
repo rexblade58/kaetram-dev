@@ -6,3 +6,5 @@ export default {
     FAILED_CRAFT: 'Nabigo kang gumawa. {{failedText}}',
     FAILED_CRAFT_ONE: ' You have failed to craft the item.'
 } as const;
+
+// seasonal event system

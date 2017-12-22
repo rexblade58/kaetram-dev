@@ -5,3 +5,5 @@ export default {
     FAILED_ENCHANT: 'Вы попробовали зачаровать, но ничего не получилось.',
     SUCCESSFUL_ENCHANT: 'Вы успешно зачаровали свой предмет.'
 } as const;
+
+// seasonal event system

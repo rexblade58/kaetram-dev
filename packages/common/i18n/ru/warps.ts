@@ -10,3 +10,5 @@ export default {
     CANNOT_WARP_COMBAT: 'После окончания боя необходимо подождать 10 секунд, чтобы переместиться.',
     CANNOT_WARP_COOLDOWN: 'Вы должны подождать еще {{time}}, чтобы переместиться.'
 } as const;
+
+// seasonal event system

@@ -5,3 +5,5 @@ export default {
     SELECT_ITEM: 'Por favor selecciona un artículo para crear.',
     FAILED_CRAFT: 'Has fallado en crear el {{failedText}}.'
 } as const;
+
+// seasonal event system

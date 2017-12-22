@@ -5,3 +5,5 @@ export default {
     SELECT_ITEM: 'Пожалуйста, выберите предмет для изготовления.',
     FAILED_CRAFT: 'Вам не удалось создать. {{failedText}}'
 } as const;
+
+// seasonal event system

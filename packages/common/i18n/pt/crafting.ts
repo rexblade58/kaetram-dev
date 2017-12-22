@@ -5,3 +5,5 @@ export default {
     SELECT_ITEM: 'Please select an item to craft.',
     FAILED_CRAFT: 'You have failed to craft {{failedText}} '
 } as const;
+
+// seasonal event system
