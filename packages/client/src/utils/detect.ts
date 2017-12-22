@@ -63,3 +63,5 @@ export function supportsWebGl(): boolean {
 }
 
 export let useCenteredCamera = (): boolean => isOldAndroid() || isOldApple() || isIPad();
+
+// localization i18n

@@ -117,3 +117,4 @@ void main()
 
     gl_FragColor = vec4(color.rgb, color.a * uAlpha);
 }
+// localization i18n

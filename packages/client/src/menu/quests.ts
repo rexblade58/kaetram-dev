@@ -148,3 +148,5 @@ export default class Quests extends Menu {
         return key.charAt(0).toUpperCase() + key.slice(1);
     }
 }
+
+// localization i18n

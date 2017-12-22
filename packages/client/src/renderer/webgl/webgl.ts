@@ -403,3 +403,5 @@ export default class WebGL extends Renderer {
         for (let context in this.drawingContexts) callback(this.drawingContexts[context]);
     }
 }
+
+// localization i18n

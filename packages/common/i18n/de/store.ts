@@ -18,3 +18,5 @@ export default {
     INVALID_ITEM_COUNT: 'Du hast eine ungültige Anzahl von Gegenständen eingegeben.',
     HOLLOW_ADMIN: 'Du kannst als Administrator nicht mit der Wirtschaft interagieren.'
 } as const;
+
+// localization i18n

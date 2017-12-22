@@ -1889,3 +1889,5 @@ export default class Renderer {
             callback(this.contexts[context] as CanvasRenderingContext2D);
     }
 }
+
+// localization i18n

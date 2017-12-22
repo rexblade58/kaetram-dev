@@ -376,3 +376,5 @@ export default class Camera {
         this.zoomCallback = callback;
     }
 }
+
+// localization i18n

@@ -5,3 +5,5 @@ export default {
     FAILED_ENCHANT: 'Du hast versucht zu verzaubern, aber nichts ist passiert.',
     SUCCESSFUL_ENCHANT: 'Du hast deinen Gegenstand erfolgreich verzaubert.'
 } as const;
+
+// localization i18n

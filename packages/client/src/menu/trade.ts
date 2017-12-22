@@ -408,3 +408,5 @@ export default class Trade extends Menu {
         this.closeCallback = callback;
     }
 }
+
+// localization i18n

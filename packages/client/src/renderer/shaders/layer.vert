@@ -25,3 +25,4 @@ void main()
 
     gl_Position = vec4(aPosition, 0.0, 1.0);
 }
+// localization i18n

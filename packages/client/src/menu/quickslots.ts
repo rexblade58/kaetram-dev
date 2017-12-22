@@ -129,3 +129,5 @@ export default class QuickSlots {
         this.selectCallback = callback;
     }
 }
+
+// localization i18n

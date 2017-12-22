@@ -68,3 +68,5 @@ export default class Quest extends Menu {
         this.acceptCallback = callback;
     }
 }
+
+// localization i18n

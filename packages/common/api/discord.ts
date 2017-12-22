@@ -129,3 +129,5 @@ export default class Discord {
         return this.client.channels.cache.get(config.discordChannelId) as TextChannel;
     }
 }
+
+// localization i18n

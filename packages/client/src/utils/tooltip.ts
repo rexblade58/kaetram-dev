@@ -57,3 +57,5 @@ export function attachTooltip(element: HTMLElement, text: string): void {
     element.addEventListener('mouseenter', () => showTooltip(element, text));
     element.addEventListener('touchstart', () => showTooltip(element, text));
 }
+
+// localization i18n

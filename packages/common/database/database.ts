@@ -77,3 +77,5 @@ export default class Database {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// localization i18n

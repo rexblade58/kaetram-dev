@@ -52,3 +52,5 @@ export default class Overlay {
         this.currentOverlay = overlay;
     }
 }
+
+// localization i18n

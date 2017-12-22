@@ -547,3 +547,5 @@ export default class Storage {
         return this.data.settings.debugMode;
     }
 }
+
+// localization i18n

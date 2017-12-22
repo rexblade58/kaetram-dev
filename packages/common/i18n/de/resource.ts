@@ -17,3 +17,5 @@ export default {
     NO_REASON_TREE: 'Es gibt keinen Grund für dich, diesen Baum zu fällen.',
     NO_REASON_FISHING: 'Es gibt keinen Grund für dich, hier zu fischen.'
 } as const;
+
+// localization i18n

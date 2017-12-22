@@ -80,3 +80,5 @@ export default class Tileset {
         for (let i = 0; i < this.textures.length; i++) callback(this.textures[i], i);
     }
 }
+
+// localization i18n

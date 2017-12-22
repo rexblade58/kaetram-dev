@@ -280,3 +280,5 @@ export default class Updater {
         });
     }
 }
+
+// localization i18n

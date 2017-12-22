@@ -139,3 +139,5 @@ export default class Main {
 }
 
 window.addEventListener('load', () => new Main());
+
+// localization i18n

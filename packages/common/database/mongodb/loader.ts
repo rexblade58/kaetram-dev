@@ -263,3 +263,5 @@ export default class Loader {
         });
     }
 }
+
+// localization i18n

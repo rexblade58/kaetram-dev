@@ -44,3 +44,5 @@ export default class Warp extends Menu {
         this.selectCallback = callback;
     }
 }
+
+// localization i18n

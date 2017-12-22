@@ -670,3 +670,5 @@ export default {
         requestAnimationFrame(fade);
     }
 };
+
+// localization i18n

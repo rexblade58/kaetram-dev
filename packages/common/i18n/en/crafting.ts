@@ -6,3 +6,5 @@ export default {
     FAILED_CRAFT: 'You have failed to craft {{failedText}}.',
     FAILED_CRAFT_ONE: ' You have failed to craft the item.'
 } as const;
+
+// localization i18n

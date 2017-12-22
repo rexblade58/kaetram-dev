@@ -64,3 +64,5 @@ export default class Transition {
         } else this.updateCallback?.(interval);
     }
 }
+
+// localization i18n

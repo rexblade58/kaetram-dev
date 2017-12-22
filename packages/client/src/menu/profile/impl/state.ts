@@ -291,3 +291,5 @@ export default class State extends Menu {
         this.pickupCallback = callback;
     }
 }
+
+// localization i18n

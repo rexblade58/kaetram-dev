@@ -277,3 +277,5 @@ export default class Layer {
         );
     }
 }
+
+// localization i18n

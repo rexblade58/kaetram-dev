@@ -136,3 +136,5 @@ export function exposedConfig<T extends keyof Config>(...keys: T[]) {
 }
 
 export default config;
+
+// localization i18n

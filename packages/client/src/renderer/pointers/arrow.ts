@@ -64,3 +64,5 @@ export default class Arrow {
         this.element.style.transform = '';
     }
 }
+
+// localization i18n

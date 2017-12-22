@@ -91,3 +91,5 @@ export default {
     WELCOME_BACK: 'Willkommen zurück bei {{name}}!',
     WHY_GO_THERE: 'Moment mal, warum sollte ich da reingehen??'
 } as const;
+
+// localization i18n

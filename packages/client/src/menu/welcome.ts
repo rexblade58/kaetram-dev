@@ -85,3 +85,5 @@ export default class Welcome extends Menu {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// localization i18n

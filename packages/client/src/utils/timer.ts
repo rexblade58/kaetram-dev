@@ -16,3 +16,5 @@ export default class Timer {
         return time - this.time > this.duration;
     }
 }
+
+// localization i18n

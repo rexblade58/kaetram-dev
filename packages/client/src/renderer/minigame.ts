@@ -80,3 +80,5 @@ export default class Minigame {
         return this.type > -1;
     }
 }
+
+// localization i18n

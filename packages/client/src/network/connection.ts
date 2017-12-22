@@ -1605,3 +1605,5 @@ export default class Connection {
         return Date.now() - this.lastEntityListRequest > 5000; // every 2 seconds
     }
 }
+
+// localization i18n

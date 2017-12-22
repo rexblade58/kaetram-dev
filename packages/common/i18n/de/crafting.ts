@@ -6,3 +6,5 @@ export default {
     FAILED_CRAFT: 'Dir ist es nicht gelungen, {{failedText}} herzustellen',
     FAILED_CRAFT_ONE: 'Dir ist es nicht gelungen, den Gegenstand herzustellen.'
 } as const;
+
+// localization i18n

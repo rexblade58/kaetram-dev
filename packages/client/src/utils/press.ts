@@ -169,3 +169,5 @@ export function onDragDrop(
         element.classList.remove('active');
     }
 }
+
+// localization i18n

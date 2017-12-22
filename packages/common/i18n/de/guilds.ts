@@ -11,3 +11,5 @@ export default {
     NOT_ALLOWED_GUESTS_JOIN: 'Gäste dürfen Gilden nicht beitreten.',
     NOT_ALLOWED_GUESTS_CREATE: 'Gäste dürfen keine Gilden gründen.'
 } as const;
+
+// localization i18n

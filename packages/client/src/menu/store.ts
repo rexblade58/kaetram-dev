@@ -347,3 +347,5 @@ export default class Store extends Menu {
         this.selectCallback = callback;
     }
 }
+
+// localization i18n

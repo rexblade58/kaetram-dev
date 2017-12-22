@@ -180,3 +180,5 @@ export default class Splat {
         this.destroyCallback = callback;
     }
 }
+
+// localization i18n

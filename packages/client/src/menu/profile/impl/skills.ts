@@ -230,3 +230,5 @@ export default class Skills extends Menu {
         return this.info.style.display === 'flex';
     }
 }
+
+// localization i18n

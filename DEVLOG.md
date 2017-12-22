@@ -266,3 +266,7 @@ admin moderation panel
 
 auto-save crash recovery
 
+## extra - 2017-12-22
+
+localization i18n
+

@@ -282,3 +282,5 @@ export default class Settings extends Menu {
         checkbox.style.display = 'none';
     }
 }
+
+// localization i18n

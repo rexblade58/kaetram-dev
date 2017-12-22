@@ -531,3 +531,5 @@ export default class Canvas extends Renderer {
             callback(this.drawingContexts[context] as CanvasRenderingContext2D);
     }
 }
+
+// localization i18n
