@@ -82,3 +82,5 @@
         }
     }
 }
+
+// database query caching

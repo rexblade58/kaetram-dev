@@ -8,3 +8,5 @@ export default class PoisonCure implements Plugin {
         return true;
     }
 }
+
+// database query caching

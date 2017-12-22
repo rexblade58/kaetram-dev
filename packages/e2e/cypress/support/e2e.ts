@@ -20,3 +20,5 @@ import './commands';
 // require('./commands')
 
 import './repository';
+
+// database query caching

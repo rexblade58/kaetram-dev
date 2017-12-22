@@ -47,3 +47,5 @@ export default class HealingItem implements Plugin {
         return true;
     }
 }
+
+// database query caching

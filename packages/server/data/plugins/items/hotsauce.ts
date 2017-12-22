@@ -23,3 +23,5 @@ export default class HotSauce implements Plugin {
         return true;
     }
 }
+
+// database query caching

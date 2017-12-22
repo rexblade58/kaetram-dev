@@ -40,3 +40,5 @@ export default class Console {
         });
     }
 }
+
+// database query caching

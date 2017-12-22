@@ -50,3 +50,5 @@ export default class FirePotion implements Plugin {
 // server deployment and migration scripts
 
 // latency measurement and handshake v2
+
+// database query caching

@@ -24,3 +24,5 @@ await esbuild.build({
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// database query caching

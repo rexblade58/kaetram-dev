@@ -12,3 +12,5 @@ export default class BlackPotion implements Plugin {
         return true;
     }
 }
+
+// database query caching

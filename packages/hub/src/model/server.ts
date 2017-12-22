@@ -268,3 +268,5 @@ export default class Server extends Model {
         };
     }
 }
+
+// database query caching

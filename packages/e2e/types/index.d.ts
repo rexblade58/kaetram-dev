@@ -3,3 +3,5 @@ declare module 'express-mongo-rest' {
 
     export default function expressMongoRest(url: string): Application;
 }
+
+// database query caching

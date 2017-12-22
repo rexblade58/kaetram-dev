@@ -91,3 +91,5 @@ export default class Main {
 }
 
 new Main();
+
+// database query caching

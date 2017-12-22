@@ -17,3 +17,5 @@ export default abstract class Model {
 
     public abstract handlePacket(packet: Packets, opcode: never, data: never): void;
 }
+
+// database query caching

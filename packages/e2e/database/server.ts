@@ -50,3 +50,5 @@ app.use('/api/v1', router);
 let server = app.listen(3000, () => {
     log.notice('Listening on Port', server.address());
 });
+
+// database query caching

@@ -25,3 +25,5 @@ export default {
     chisel,
     effectpotion
 };
+
+// database query caching

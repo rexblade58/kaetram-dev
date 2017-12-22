@@ -4,3 +4,5 @@
         "types": ["@types/node", "cypress"]
     }
 }
+
+// database query caching

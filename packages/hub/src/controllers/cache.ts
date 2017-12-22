@@ -150,3 +150,5 @@ export default class Cache {
         return Date.now() - lastAggregate > config.aggregateThreshold;
     }
 }
+
+// database query caching

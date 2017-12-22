@@ -41,3 +41,5 @@ export default class Mailer {
         }
     }
 }
+
+// database query caching

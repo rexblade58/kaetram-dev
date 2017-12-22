@@ -253,3 +253,5 @@
     ],
     "username": "test"
 }
+
+// database query caching

@@ -358,3 +358,5 @@ export default class Models {
         this.messageCallback = callback;
     }
 }
+
+// database query caching

@@ -282,3 +282,7 @@ hub cross-server
 
 dungeon generation
 
+## extra - 2017-12-22
+
+database query caching
+

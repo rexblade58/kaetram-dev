@@ -15,3 +15,5 @@ export default class Chisel implements Plugin {
         return true;
     }
 }
+
+// database query caching

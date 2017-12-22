@@ -492,3 +492,5 @@
         "secret": true
     }
 }
+
+// database query caching

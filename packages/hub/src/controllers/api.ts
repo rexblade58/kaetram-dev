@@ -371,3 +371,5 @@ export default class API {
         return hubAccessToken === config.hubAccessToken;
     }
 }
+
+// database query caching

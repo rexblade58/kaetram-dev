@@ -124,3 +124,5 @@ declare global {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// database query caching

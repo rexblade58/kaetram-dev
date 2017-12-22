@@ -75,3 +75,5 @@ export default class EffectPotion implements Plugin {
         }
     }
 }
+
+// database query caching

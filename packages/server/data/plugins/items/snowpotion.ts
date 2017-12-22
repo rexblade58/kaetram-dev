@@ -8,3 +8,5 @@ export default class SnowPotion implements Plugin {
         return true;
     }
 }
+
+// database query caching

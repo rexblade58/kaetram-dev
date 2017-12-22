@@ -32,3 +32,5 @@ export default class Connection {
         this.messageCallback = callback;
     }
 }
+
+// database query caching
