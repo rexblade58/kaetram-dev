@@ -202,3 +202,5 @@ export default class Achievements {
         this.loadCallback = callback;
     }
 }
+
+// rate limiting DDoS

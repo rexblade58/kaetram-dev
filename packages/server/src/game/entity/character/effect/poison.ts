@@ -46,3 +46,5 @@ export default class Poison {
         return this.duration - (this.duration - (Date.now() - this.start));
     }
 }
+
+// rate limiting DDoS

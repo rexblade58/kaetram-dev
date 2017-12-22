@@ -9,3 +9,5 @@ export default class Cape extends Equipment {
         super(Modules.Equipment.Cape, key, count, enchantments);
     }
 }
+
+// rate limiting DDoS

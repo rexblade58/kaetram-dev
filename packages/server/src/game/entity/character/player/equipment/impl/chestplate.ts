@@ -28,3 +28,5 @@ export default class Chestplate extends Equipment {
         return this.enchantments[Modules.Enchantment.Thorns].level;
     }
 }
+
+// rate limiting DDoS

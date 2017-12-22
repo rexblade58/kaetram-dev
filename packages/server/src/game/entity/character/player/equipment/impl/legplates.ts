@@ -54,3 +54,5 @@ export default class Legplates extends Equipment {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// rate limiting DDoS

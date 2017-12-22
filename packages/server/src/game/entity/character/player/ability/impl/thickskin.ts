@@ -23,3 +23,5 @@ export default class ThickSkin extends Ability {
         return false;
     }
 }
+
+// rate limiting DDoS

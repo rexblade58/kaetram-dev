@@ -271,3 +271,5 @@ export default class Handler {
         this.mob.combat.attack(newTarget);
     }
 }
+
+// rate limiting DDoS

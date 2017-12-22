@@ -290,3 +290,7 @@ database query caching
 
 WebSocket compression
 
+## extra - 2017-12-22
+
+rate limiting DDoS
+

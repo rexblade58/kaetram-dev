@@ -128,3 +128,5 @@ export default class Equipment {
         this.updateCallback = callback;
     }
 }
+
+// rate limiting DDoS

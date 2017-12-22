@@ -193,3 +193,5 @@ export default class {
         this.removeCallback = callback;
     }
 }
+
+// rate limiting DDoS

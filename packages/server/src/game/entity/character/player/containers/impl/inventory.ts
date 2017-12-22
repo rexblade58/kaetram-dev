@@ -55,3 +55,5 @@ export default class Inventory extends Container {
         return super.remove(index, count, drop);
     }
 }
+
+// rate limiting DDoS

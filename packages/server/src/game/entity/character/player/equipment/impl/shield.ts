@@ -38,3 +38,5 @@ export default class Shield extends Equipment {
         return data;
     }
 }
+
+// rate limiting DDoS

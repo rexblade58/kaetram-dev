@@ -185,3 +185,5 @@ export default class Ability {
         this.updateCallback = callback;
     }
 }
+
+// rate limiting DDoS

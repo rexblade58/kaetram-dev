@@ -325,3 +325,5 @@ export default class Combat {
         this.loopCallback = callback;
     }
 }
+
+// rate limiting DDoS

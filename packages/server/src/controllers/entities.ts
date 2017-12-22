@@ -791,3 +791,5 @@ export default class Entities {
         for (let player of Object.values(this.players)) callback(player);
     }
 }
+
+// rate limiting DDoS

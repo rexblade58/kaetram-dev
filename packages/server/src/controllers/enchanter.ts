@@ -120,3 +120,5 @@ export default class Enchanter {
         return level > item.getEnchantmentLevel(enchantment);
     }
 }
+
+// rate limiting DDoS

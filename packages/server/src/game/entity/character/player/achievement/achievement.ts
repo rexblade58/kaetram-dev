@@ -380,3 +380,5 @@ export default class Achievement {
         this.killCallback = callback;
     }
 }
+
+// rate limiting DDoS

@@ -1311,3 +1311,5 @@ export default abstract class Character extends Entity {
 // server deployment and migration scripts
 
 // latency measurement and handshake v2
+
+// rate limiting DDoS

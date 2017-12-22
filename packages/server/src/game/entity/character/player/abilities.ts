@@ -190,3 +190,5 @@ export default class Abilities {
         this.toggleCallback = callback;
     }
 }
+
+// rate limiting DDoS

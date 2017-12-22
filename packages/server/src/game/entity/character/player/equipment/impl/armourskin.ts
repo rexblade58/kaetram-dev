@@ -7,3 +7,5 @@ export default class ArmourSkin extends Equipment {
         super(Modules.Equipment.ArmourSkin, key, count);
     }
 }
+
+// rate limiting DDoS

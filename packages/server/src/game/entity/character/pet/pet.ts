@@ -29,3 +29,5 @@ export default class Pet extends Character {
         };
     }
 }
+
+// rate limiting DDoS

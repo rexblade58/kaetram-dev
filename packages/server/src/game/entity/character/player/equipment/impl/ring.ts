@@ -9,3 +9,5 @@ export default class Ring extends Equipment {
         super(Modules.Equipment.Ring, key, count, enchantments);
     }
 }
+
+// rate limiting DDoS

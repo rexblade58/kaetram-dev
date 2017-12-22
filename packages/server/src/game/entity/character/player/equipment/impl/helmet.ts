@@ -9,3 +9,5 @@ export default class Helmet extends Equipment {
         super(Modules.Equipment.Helmet, key, count, enchantments);
     }
 }
+
+// rate limiting DDoS

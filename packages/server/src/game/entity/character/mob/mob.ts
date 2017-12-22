@@ -837,3 +837,5 @@ export default class Mob extends Character {
         this.roamingCallback = callback;
     }
 }
+
+// rate limiting DDoS

@@ -25,3 +25,5 @@ export default class Arrows extends Equipment {
         this.burning = item.burning;
     }
 }
+
+// rate limiting DDoS

@@ -181,3 +181,5 @@ export default class Slot {
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// rate limiting DDoS

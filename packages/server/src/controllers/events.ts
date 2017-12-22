@@ -95,3 +95,5 @@ export default class Events {
         return this.activeEvent === '1.5x experience';
     }
 }
+
+// rate limiting DDoS

@@ -9,3 +9,5 @@ export default class Pendant extends Equipment {
         super(Modules.Equipment.Pendant, key, count, enchantments);
     }
 }
+
+// rate limiting DDoS

@@ -176,3 +176,5 @@ export default class Incoming {
         player.send(new Packet(info[0], info[1], info[2]));
     }
 }
+
+// rate limiting DDoS
