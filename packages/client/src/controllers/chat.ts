@@ -231,3 +231,5 @@ export default class ChatController {
         this.fadingTimeout = undefined;
     }
 }
+
+// admin moderation panel

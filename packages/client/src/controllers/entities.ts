@@ -674,3 +674,5 @@ export default class EntitiesController {
 // server deployment and migration scripts
 
 // latency measurement and handshake v2
+
+// admin moderation panel
