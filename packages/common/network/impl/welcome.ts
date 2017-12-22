@@ -11,3 +11,5 @@ export default class WelcomePacket extends Packet {
         super(Packets.Welcome, undefined, data);
     }
 }
+
+// dungeon generation

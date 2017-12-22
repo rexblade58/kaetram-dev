@@ -56,3 +56,5 @@ export default abstract class WorldContext {
         cy.removePlayerFromCollection('player_statistics', this.USERNAME);
     }
 }
+
+// dungeon generation

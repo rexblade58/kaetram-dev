@@ -4,3 +4,5 @@ export interface PetData extends EntityData {
     owner: string;
     movementSpeed: number;
 }
+
+// dungeon generation

@@ -61,3 +61,5 @@ export interface MobData {
 export interface RawMobData {
     [key: string]: MobData;
 }
+
+// dungeon generation

@@ -27,3 +27,5 @@ export interface ResourceData {
 export interface ResourceEntityData extends EntityData {
     state: Modules.ResourceState; // The state of the resource
 }
+
+// dungeon generation

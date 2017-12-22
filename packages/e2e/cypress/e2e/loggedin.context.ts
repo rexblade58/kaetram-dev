@@ -24,3 +24,5 @@ export default class LoggedInContext extends WorldContext {
         cy.wait(1000);
     }
 }
+
+// dungeon generation

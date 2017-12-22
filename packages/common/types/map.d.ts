@@ -171,3 +171,5 @@ export interface ProcessedMap {
     areas: { [name: string]: ProcessedArea[] };
     cursors: { [tileId: number]: string };
 }
+
+// dungeon generation

@@ -5,3 +5,5 @@ export default {
     FAILED_ENCHANT: 'You tried enchanting but nothing happened.',
     SUCCESSFUL_ENCHANT: 'You successfully enchanted your item.'
 };
+
+// dungeon generation

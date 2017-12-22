@@ -55,3 +55,5 @@ export interface EntityData {
 
     displayInfo?: EntityDisplayInfo;
 }
+
+// dungeon generation

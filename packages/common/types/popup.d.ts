@@ -4,3 +4,5 @@ export interface PopupData {
     colour: string;
     soundEffect?: string;
 }
+
+// dungeon generation

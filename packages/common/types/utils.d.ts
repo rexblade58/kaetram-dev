@@ -5,3 +5,5 @@ export type UnionToIntersection<T> = (T extends unknown ? (_: T) => unknown : ne
 ) => unknown
     ? R
     : never;
+
+// dungeon generation

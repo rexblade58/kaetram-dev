@@ -19,3 +19,5 @@ Feature: Inventory
             And I click on the "first inventory slot"
             And I click on the "drop command"
             Then I see that the "first inventory slot" is empty
+
+// dungeon generation

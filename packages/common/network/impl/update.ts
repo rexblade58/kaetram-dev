@@ -11,3 +11,5 @@ export default class UpdatePacket extends Packet {
         super(Packets.Update, undefined, data);
     }
 }
+
+// dungeon generation

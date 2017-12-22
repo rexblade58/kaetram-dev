@@ -19,3 +19,5 @@ export interface PlayerInfo {
     lastWarp: number;
     mapVersion: number;
 }
+
+// dungeon generation

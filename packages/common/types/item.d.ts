@@ -86,3 +86,5 @@ export interface ItemData {
     effect?: string;
     duration?: number;
 }
+
+// dungeon generation

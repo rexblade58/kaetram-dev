@@ -14,3 +14,5 @@ export interface StatisticsData {
 
     cheater: boolean;
 }
+
+// dungeon generation

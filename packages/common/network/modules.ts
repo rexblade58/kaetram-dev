@@ -713,3 +713,5 @@ export enum ResourceState {
     Default,
     Depleted
 }
+
+// dungeon generation

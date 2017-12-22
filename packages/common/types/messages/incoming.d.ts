@@ -114,3 +114,5 @@ export interface LootBagPacket {
 export interface PetPacket {
     opcode: Opcodes.Pet;
 }
+
+// dungeon generation

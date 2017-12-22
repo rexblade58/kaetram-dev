@@ -18,3 +18,5 @@ export default class InventoryContext extends LoggedInContext {
         cy.createPlayerInventory(playerInventory);
     }
 }
+
+// dungeon generation

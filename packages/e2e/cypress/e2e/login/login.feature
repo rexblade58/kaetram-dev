@@ -29,3 +29,5 @@ Feature: Login
             And I fill in the "password" field with "wrongpassword"
             When I click on the "login button"
             Then I see the login error "You have entered the wrong username or password."
+
+// dungeon generation

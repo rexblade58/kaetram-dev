@@ -18,3 +18,5 @@ export function activateWorldContext<WC extends WorldContext = WorldContext>(
     context.injectDefaultData();
     context.before();
 }
+
+// dungeon generation

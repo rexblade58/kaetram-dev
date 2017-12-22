@@ -24,3 +24,5 @@ export interface FriendsPacketData {
 }
 
 export type RelayPacketData = [string, [Packets, number, { [key: string]: unknown }]];
+
+// dungeon generation

@@ -4,3 +4,5 @@ export interface PlayerInventory {
     username: string;
     slots: PlayerInventorySlot[];
 }
+
+// dungeon generation

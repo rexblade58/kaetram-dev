@@ -19,3 +19,5 @@ export interface PvpAggregate {
     username: string;
     pvpKills: number;
 }
+
+// dungeon generation

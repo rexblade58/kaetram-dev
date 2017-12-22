@@ -13,3 +13,5 @@ export default class DefaultContext extends WorldContext {
         // default data to inject in the db goes here
     }
 }
+
+// dungeon generation

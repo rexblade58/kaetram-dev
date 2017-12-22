@@ -24,3 +24,5 @@ export default class TradePacket<O extends Opcodes.Trade> extends Packet {
         super(Packets.Trade, opcode, data);
     }
 }
+
+// dungeon generation

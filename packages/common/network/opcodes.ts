@@ -238,3 +238,5 @@ export enum Interface {
     Open,
     Close
 }
+
+// dungeon generation
