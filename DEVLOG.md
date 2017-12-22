@@ -242,3 +242,7 @@ auction house economy
 
 daily quests achievements
 
+## extra - 2017-12-22
+
+weather day/night cycle
+
