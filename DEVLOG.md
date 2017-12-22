@@ -286,3 +286,7 @@ dungeon generation
 
 database query caching
 
+## extra - 2017-12-22
+
+WebSocket compression
+

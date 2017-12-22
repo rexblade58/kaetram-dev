@@ -175,3 +175,5 @@ export default class QueenAnt extends Default {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// WebSocket compression

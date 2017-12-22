@@ -60,3 +60,5 @@ export default class Ant extends Default {
         this.mob.target.heal(35, 'hitpoints');
     }
 }
+
+// WebSocket compression

@@ -97,3 +97,5 @@ export default class Default extends Handler {
         return this.mob.hitPoints.getHitPoints() / this.mob.hitPoints.getMaxHitPoints() <= 0.25;
     }
 }
+
+// WebSocket compression

@@ -94,3 +94,5 @@ export default class Hellhound extends Default {
         this.minionsSpawned = 0;
     }
 }
+
+// WebSocket compression

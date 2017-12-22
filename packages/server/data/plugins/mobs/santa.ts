@@ -52,3 +52,5 @@ export default class Santa extends Default {
         if (projectile === 6) this.mob.aoe = 4;
     }
 }
+
+// WebSocket compression

@@ -67,3 +67,5 @@ export default class ForestDragon extends Default {
         this.mob.attackRange = 1;
     }
 }
+
+// WebSocket compression

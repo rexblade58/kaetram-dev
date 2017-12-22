@@ -114,3 +114,5 @@ export default class PirateCaptain extends Default {
         return Utils.randomInt(0, SPAWN_CHANCE) === 4;
     }
 }
+
+// WebSocket compression

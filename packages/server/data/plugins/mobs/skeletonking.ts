@@ -70,3 +70,5 @@ export default class SkeletonKing extends Default {
         this.minionsSpawned++;
     }
 }
+
+// WebSocket compression

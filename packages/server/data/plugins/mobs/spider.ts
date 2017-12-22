@@ -7,3 +7,5 @@ export default class Spider extends Default {
         super(mob);
     }
 }
+
+// WebSocket compression
