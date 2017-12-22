@@ -6,3 +6,5 @@ export default class Friend {
         public serverId: number
     ) {}
 }
+
+// auto-save crash recovery

@@ -199,3 +199,5 @@ export default class Enchant extends Menu {
         this.confirmCallback = callback;
     }
 }
+
+// auto-save crash recovery

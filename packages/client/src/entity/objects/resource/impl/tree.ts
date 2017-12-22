@@ -25,3 +25,5 @@ export default class Tree extends Resource {
         this.exhaustedFrame = this.sprite.animations.exhausted.getSecondFrame();
     }
 }
+
+// auto-save crash recovery

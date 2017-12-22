@@ -89,3 +89,5 @@ export default class Task {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// auto-save crash recovery

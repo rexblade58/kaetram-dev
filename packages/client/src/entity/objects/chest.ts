@@ -11,3 +11,5 @@ export default class Chest extends Entity {
         this.setAnimation('idle_down', 150);
     }
 }
+
+// auto-save crash recovery

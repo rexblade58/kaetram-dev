@@ -62,3 +62,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // new quest content and NPC dialogue
 
 // latency measurement and handshake v2
+
+// auto-save crash recovery

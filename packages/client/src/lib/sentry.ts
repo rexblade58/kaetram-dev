@@ -6,3 +6,5 @@ if (import.meta.env.PROD && globalConfig.sentryDsn)
         integrations: [new BrowserTracing()],
         tracesSampleRate: 1
     });
+
+// auto-save crash recovery

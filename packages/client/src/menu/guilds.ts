@@ -906,3 +906,5 @@ export default class Guilds extends Menu {
         this.createError.innerHTML = Util.parseMessage(Util.formatNotification(text));
     }
 }
+
+// auto-save crash recovery

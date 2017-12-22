@@ -150,3 +150,5 @@ export default class Interact extends Menu {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// auto-save crash recovery

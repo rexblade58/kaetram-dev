@@ -74,3 +74,5 @@ export default class InfoController {
         for (let info of Object.values(this.infos)) callback(info);
     }
 }
+
+// auto-save crash recovery

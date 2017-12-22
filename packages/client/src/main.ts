@@ -12,3 +12,5 @@ import './lib/sentry';
 window.addEventListener('load', () => {
     new Game(new App());
 });
+
+// auto-save crash recovery

@@ -156,3 +156,5 @@ export default class Animation {
         this.bopCallback = callback;
     }
 }
+
+// auto-save crash recovery

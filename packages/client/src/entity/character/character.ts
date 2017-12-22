@@ -1019,3 +1019,5 @@ export default class Character extends Entity {
         this.fallbackCallback = callback;
     }
 }
+
+// auto-save crash recovery

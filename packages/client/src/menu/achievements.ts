@@ -250,3 +250,5 @@ export default class Achievements extends Menu {
         }
     }
 }
+
+// auto-save crash recovery

@@ -210,3 +210,5 @@ export default class Sprite {
         this.loadCallback = callback;
     }
 }
+
+// auto-save crash recovery

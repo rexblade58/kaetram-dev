@@ -159,3 +159,5 @@ export default class LootBag extends Menu {
         this.selectCallback = callback;
     }
 }
+
+// auto-save crash recovery

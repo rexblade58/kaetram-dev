@@ -329,3 +329,5 @@ export default class Friends extends Menu {
         this.messageCallback = callback;
     }
 }
+
+// auto-save crash recovery

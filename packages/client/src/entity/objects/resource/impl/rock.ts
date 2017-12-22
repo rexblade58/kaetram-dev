@@ -7,3 +7,5 @@ export default class Rock extends Resource {
         super(instance, Modules.EntityType.Rock);
     }
 }
+
+// auto-save crash recovery

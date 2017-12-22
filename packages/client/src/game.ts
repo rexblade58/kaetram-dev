@@ -488,3 +488,5 @@ export default class Game {
             }, 100);
     }
 }
+
+// auto-save crash recovery

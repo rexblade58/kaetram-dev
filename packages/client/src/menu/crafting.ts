@@ -314,3 +314,5 @@ export default class Crafting extends Menu {
         this.craftCallback = callback;
     }
 }
+
+// auto-save crash recovery

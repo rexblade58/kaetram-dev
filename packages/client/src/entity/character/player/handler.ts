@@ -259,3 +259,5 @@ export default class Handler extends CharacterHandler {
         return Opcodes.Target.None;
     }
 }
+
+// auto-save crash recovery

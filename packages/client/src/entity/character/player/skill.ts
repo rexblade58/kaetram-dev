@@ -31,3 +31,5 @@ export default class Skill {
         this.percentage = percentage || 0;
     }
 }
+
+// auto-save crash recovery

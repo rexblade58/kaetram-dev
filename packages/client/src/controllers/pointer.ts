@@ -174,3 +174,5 @@ export default class PointerController {
         delete this.pointers[instance];
     }
 }
+
+// auto-save crash recovery

@@ -7,3 +7,5 @@ export default class FishSpot extends Resource {
         super(instance, Modules.EntityType.FishSpot);
     }
 }
+
+// auto-save crash recovery

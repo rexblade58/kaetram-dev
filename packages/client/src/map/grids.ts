@@ -53,3 +53,5 @@ export default class Grids {
         return entities;
     }
 }
+
+// auto-save crash recovery

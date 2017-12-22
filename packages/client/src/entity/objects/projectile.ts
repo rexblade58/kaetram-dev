@@ -135,3 +135,5 @@ export default class Projectile extends Entity {
         this.impactCallback = callback;
     }
 }
+
+// auto-save crash recovery

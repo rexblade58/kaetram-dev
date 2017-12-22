@@ -237,3 +237,5 @@ export default class Leaderboards extends Menu {
         this.resultsList.append(element);
     }
 }
+
+// auto-save crash recovery

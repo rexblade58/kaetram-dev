@@ -78,3 +78,5 @@ export default class Equipment {
         return this.key !== '';
     }
 }
+
+// auto-save crash recovery

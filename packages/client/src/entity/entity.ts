@@ -519,3 +519,5 @@ export default abstract class Entity {
         return false;
     }
 }
+
+// auto-save crash recovery

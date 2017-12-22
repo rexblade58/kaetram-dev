@@ -114,3 +114,5 @@ export default class Header {
         window.setTimeout(() => this.healthMask.classList.remove('health-mask-white'), 150);
     }
 }
+
+// auto-save crash recovery

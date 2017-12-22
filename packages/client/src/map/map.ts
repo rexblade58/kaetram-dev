@@ -558,3 +558,5 @@ export default class Map {
         else callback(data);
     }
 }
+
+// auto-save crash recovery

@@ -434,3 +434,5 @@ export default class Inventory extends Menu {
         this.batchCallback = callback;
     }
 }
+
+// auto-save crash recovery

@@ -80,3 +80,5 @@ export default class Notification extends Menu {
         return window.innerHeight - this.container.offsetHeight;
     }
 }
+
+// auto-save crash recovery

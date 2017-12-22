@@ -262,3 +262,5 @@ export default class Bank extends Menu {
         this.selectCallback = callback;
     }
 }
+
+// auto-save crash recovery

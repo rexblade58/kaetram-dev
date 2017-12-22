@@ -1066,3 +1066,5 @@ export default class Player extends Character {
         this.manaCallback = callback;
     }
 }
+
+// auto-save crash recovery

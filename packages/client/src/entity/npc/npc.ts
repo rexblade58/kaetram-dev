@@ -24,3 +24,5 @@ export default class NPC extends Entity {
         return true;
     }
 }
+
+// auto-save crash recovery

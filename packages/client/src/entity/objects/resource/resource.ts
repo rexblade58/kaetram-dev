@@ -56,3 +56,5 @@ export default abstract class Resource extends Entity {
         this.idle();
     }
 }
+
+// auto-save crash recovery

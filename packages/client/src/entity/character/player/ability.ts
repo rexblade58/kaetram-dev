@@ -62,3 +62,5 @@ export default class Ability {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// auto-save crash recovery

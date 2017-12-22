@@ -262,3 +262,7 @@ anti-cheat detection
 
 admin moderation panel
 
+## extra - 2017-12-22
+
+auto-save crash recovery
+

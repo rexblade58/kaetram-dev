@@ -184,3 +184,5 @@ export default abstract class Menu {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// auto-save crash recovery

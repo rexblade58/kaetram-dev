@@ -27,3 +27,5 @@ export default class Mob extends Character {
 // end-to-end tests and v1.0 release
 
 // latency measurement and handshake v2
+
+// auto-save crash recovery

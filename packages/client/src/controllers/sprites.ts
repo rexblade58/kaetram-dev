@@ -61,3 +61,5 @@ export default class SpritesController {
         return this.get('death');
     }
 }
+
+// auto-save crash recovery

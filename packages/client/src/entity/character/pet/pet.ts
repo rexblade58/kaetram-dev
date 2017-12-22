@@ -25,3 +25,5 @@ export default class Pet extends Character {
         super.idle(o, force);
     }
 }
+
+// auto-save crash recovery

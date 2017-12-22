@@ -48,3 +48,5 @@ export default class Item extends Entity {
         return true;
     }
 }
+
+// auto-save crash recovery

@@ -606,3 +606,5 @@ export default class MenuController {
         for (let menu of Object.values(this.menus)) callback(menu);
     }
 }
+
+// auto-save crash recovery

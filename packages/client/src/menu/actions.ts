@@ -225,3 +225,5 @@ export default class Actions extends Menu {
         this.dropCallback = callback;
     }
 }
+
+// auto-save crash recovery

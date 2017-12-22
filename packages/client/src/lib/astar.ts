@@ -227,3 +227,5 @@ let diagonal: MathFunction = (start, end, f1, f2) => f2(f1(start.x - end.x), f1(
     manhattan: MathFunction = (start, end, f1) => f1(start.x - end.x) + f1(start.y - end.y);
 
 export default AStar;
+
+// auto-save crash recovery

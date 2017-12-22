@@ -69,3 +69,5 @@ function init(): void {
 
 // Check compatibility for the browser and environment we're running this in.
 if (import.meta.env.PROD && 'serviceWorker' in navigator) init();
+
+// auto-save crash recovery
