@@ -32,3 +32,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // equipment and stats calculations
 
 // packet serialization optimization
+
+// skill tree and level progression system

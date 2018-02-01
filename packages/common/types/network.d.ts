@@ -24,3 +24,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // inventory system with item management
 
 // equipment and stats calculations
+
+// skill tree and level progression system

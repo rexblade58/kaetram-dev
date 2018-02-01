@@ -100,3 +100,5 @@ declare global {
 // inventory system with item management
 
 // equipment and stats calculations
+
+// skill tree and level progression system

@@ -67,3 +67,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // equipment and stats calculations
 
 // combat mechanics and damage formulas
+
+// skill tree and level progression system

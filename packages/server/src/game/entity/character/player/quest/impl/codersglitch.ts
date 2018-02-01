@@ -18,3 +18,5 @@ export default class CodersGlitch extends Quest {
 // equipment and stats calculations
 
 // packet serialization optimization
+
+// skill tree and level progression system

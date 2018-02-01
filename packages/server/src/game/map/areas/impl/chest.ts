@@ -90,3 +90,5 @@ export default class Chest extends Areas {
 // equipment and stats calculations
 
 // combat mechanics and damage formulas
+
+// skill tree and level progression system

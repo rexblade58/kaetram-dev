@@ -42,3 +42,7 @@ combat mechanics and damage formulas
 
 packet serialization optimization
 
+## v0.1 - 2018-02-01
+
+skill tree and level progression system
+

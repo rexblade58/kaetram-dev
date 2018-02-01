@@ -50,3 +50,5 @@ export default class Admin extends Model {
 // equipment and stats calculations
 
 // combat mechanics and damage formulas
+
+// skill tree and level progression system

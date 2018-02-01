@@ -179,3 +179,5 @@ export default class ProgramData {
 // combat mechanics and damage formulas
 
 // packet serialization optimization
+
+// skill tree and level progression system

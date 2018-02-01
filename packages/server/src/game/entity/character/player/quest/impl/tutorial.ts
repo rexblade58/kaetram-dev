@@ -35,3 +35,5 @@ export default class Tutorial extends Quest {
 // inventory system with item management
 
 // equipment and stats calculations
+
+// skill tree and level progression system

@@ -718,3 +718,5 @@ export default class Item extends Entity {
 // equipment and stats calculations
 
 // packet serialization optimization
+
+// skill tree and level progression system
