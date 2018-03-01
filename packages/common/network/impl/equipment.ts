@@ -69,3 +69,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // combat mechanics and damage formulas
 
 // skill tree and level progression system
+
+// player trading between characters

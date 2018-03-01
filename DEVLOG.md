@@ -46,3 +46,7 @@ packet serialization optimization
 
 skill tree and level progression system
 
+## v0.1 - 2018-03-01
+
+player trading between characters
+

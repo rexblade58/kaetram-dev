@@ -26,3 +26,5 @@ Then('I am logged in successfully', function () {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

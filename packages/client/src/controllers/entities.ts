@@ -644,3 +644,5 @@ export default class EntitiesController {
 // combat mechanics and damage formulas
 
 // packet serialization optimization
+
+// player trading between characters

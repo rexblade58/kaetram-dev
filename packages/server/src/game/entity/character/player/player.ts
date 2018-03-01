@@ -2729,3 +2729,5 @@ export default class Player extends Character {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

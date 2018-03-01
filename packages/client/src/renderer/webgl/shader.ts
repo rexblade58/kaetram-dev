@@ -181,3 +181,5 @@ export default class ProgramData {
 // packet serialization optimization
 
 // skill tree and level progression system
+
+// player trading between characters

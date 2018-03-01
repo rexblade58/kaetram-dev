@@ -52,3 +52,5 @@ export default class Admin extends Model {
 // combat mechanics and damage formulas
 
 // skill tree and level progression system
+
+// player trading between characters

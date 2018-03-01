@@ -17,3 +17,5 @@ export default class Foraging extends Resource {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

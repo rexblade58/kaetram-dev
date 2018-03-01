@@ -268,3 +268,5 @@ export default class ResourceSkill extends Skill {
 // combat mechanics and damage formulas
 
 // packet serialization optimization
+
+// player trading between characters

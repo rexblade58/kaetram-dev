@@ -37,3 +37,5 @@ export default class SkillPacket extends Packet {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

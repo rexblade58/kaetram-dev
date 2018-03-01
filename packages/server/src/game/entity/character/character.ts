@@ -1259,3 +1259,5 @@ export default abstract class Character extends Entity {
 // packet serialization optimization
 
 // skill tree and level progression system
+
+// player trading between characters

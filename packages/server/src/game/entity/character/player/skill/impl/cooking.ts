@@ -17,3 +17,5 @@ export default class Cooking extends Skill {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

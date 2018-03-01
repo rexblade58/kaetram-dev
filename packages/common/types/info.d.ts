@@ -19,3 +19,5 @@ export interface HitData {
 // combat mechanics and damage formulas
 
 // packet serialization optimization
+
+// player trading between characters

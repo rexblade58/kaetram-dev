@@ -151,3 +151,5 @@ export default class QueenAnt extends Default {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

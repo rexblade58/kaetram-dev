@@ -73,3 +73,5 @@ export default class Tile {
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters

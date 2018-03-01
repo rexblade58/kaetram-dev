@@ -20,3 +20,5 @@ export default class FirePotion implements Plugin {
 // combat mechanics and damage formulas
 
 // packet serialization optimization
+
+// player trading between characters

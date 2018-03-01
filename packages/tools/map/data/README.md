@@ -14,3 +14,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // quest system with objectives and rewards
 
 // combat mechanics and damage formulas
+
+// player trading between characters
