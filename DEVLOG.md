@@ -50,3 +50,7 @@ skill tree and level progression system
 
 player trading between characters
 
+## v0.1 - 2018-04-01
+
+bank and storage system
+

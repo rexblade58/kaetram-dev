@@ -54,3 +54,5 @@ export default class Admin extends Model {
 // skill tree and level progression system
 
 // player trading between characters
+
+// bank and storage system

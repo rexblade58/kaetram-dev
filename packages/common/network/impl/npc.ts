@@ -37,3 +37,5 @@ export default class NPCPacket extends Packet {
 // equipment and stats calculations
 
 // skill tree and level progression system
+
+// bank and storage system

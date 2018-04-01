@@ -55,3 +55,5 @@ export default class Database {
 // equipment and stats calculations
 
 // skill tree and level progression system
+
+// bank and storage system

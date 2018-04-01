@@ -1261,3 +1261,5 @@ export default abstract class Character extends Entity {
 // skill tree and level progression system
 
 // player trading between characters
+
+// bank and storage system

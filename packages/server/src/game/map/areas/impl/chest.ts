@@ -94,3 +94,5 @@ export default class Chest extends Areas {
 // skill tree and level progression system
 
 // player trading between characters
+
+// bank and storage system

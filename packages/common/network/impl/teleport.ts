@@ -30,3 +30,5 @@ export default class TeleportPacket extends Packet {
 // packet serialization optimization
 
 // skill tree and level progression system
+
+// bank and storage system

@@ -21,3 +21,5 @@ export default class Magic extends Skill {
 // equipment and stats calculations
 
 // skill tree and level progression system
+
+// bank and storage system

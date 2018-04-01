@@ -87,3 +87,5 @@ export default class AchievementPacket extends Packet {
 // packet serialization optimization
 
 // skill tree and level progression system
+
+// bank and storage system

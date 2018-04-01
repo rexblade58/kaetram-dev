@@ -71,3 +71,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // skill tree and level progression system
 
 // player trading between characters
+
+// bank and storage system

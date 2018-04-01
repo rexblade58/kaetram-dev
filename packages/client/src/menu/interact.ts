@@ -128,3 +128,5 @@ export default class Interact extends Menu {
 // equipment and stats calculations
 
 // skill tree and level progression system
+
+// bank and storage system
