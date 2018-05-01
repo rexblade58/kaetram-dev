@@ -30,3 +30,5 @@ export default {
 // packet serialization optimization
 
 // player trading between characters
+
+// crafting system with recipes

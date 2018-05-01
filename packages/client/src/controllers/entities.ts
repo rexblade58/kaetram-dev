@@ -646,3 +646,5 @@ export default class EntitiesController {
 // packet serialization optimization
 
 // player trading between characters
+
+// crafting system with recipes

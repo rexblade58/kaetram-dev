@@ -34,3 +34,5 @@ export default class Intimidate extends Ability {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

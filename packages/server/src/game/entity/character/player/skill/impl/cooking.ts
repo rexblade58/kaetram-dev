@@ -19,3 +19,5 @@ export default class Cooking extends Skill {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

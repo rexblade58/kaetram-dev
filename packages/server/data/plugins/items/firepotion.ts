@@ -22,3 +22,5 @@ export default class FirePotion implements Plugin {
 // packet serialization optimization
 
 // player trading between characters
+
+// crafting system with recipes

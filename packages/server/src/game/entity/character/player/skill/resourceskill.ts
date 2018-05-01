@@ -270,3 +270,5 @@ export default class ResourceSkill extends Skill {
 // packet serialization optimization
 
 // player trading between characters
+
+// crafting system with recipes

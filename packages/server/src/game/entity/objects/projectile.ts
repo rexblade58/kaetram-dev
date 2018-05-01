@@ -86,3 +86,5 @@ export default class Projectile extends Entity {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

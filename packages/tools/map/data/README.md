@@ -16,3 +16,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

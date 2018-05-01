@@ -21,3 +21,5 @@ export interface HitData {
 // packet serialization optimization
 
 // player trading between characters
+
+// crafting system with recipes

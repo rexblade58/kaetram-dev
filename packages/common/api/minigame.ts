@@ -18,3 +18,5 @@ export enum Team {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

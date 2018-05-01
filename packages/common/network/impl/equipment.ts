@@ -73,3 +73,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // player trading between characters
 
 // bank and storage system
+
+// crafting system with recipes

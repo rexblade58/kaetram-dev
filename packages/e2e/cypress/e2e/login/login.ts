@@ -28,3 +28,5 @@ Then('I am logged in successfully', function () {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

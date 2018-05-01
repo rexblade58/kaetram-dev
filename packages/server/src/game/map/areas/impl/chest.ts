@@ -96,3 +96,5 @@ export default class Chest extends Areas {
 // player trading between characters
 
 // bank and storage system
+
+// crafting system with recipes

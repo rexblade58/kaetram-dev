@@ -185,3 +185,5 @@ export default class ProgramData {
 // player trading between characters
 
 // bank and storage system
+
+// crafting system with recipes

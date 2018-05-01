@@ -1263,3 +1263,5 @@ export default abstract class Character extends Entity {
 // player trading between characters
 
 // bank and storage system
+
+// crafting system with recipes

@@ -232,3 +232,5 @@ export default class Minigame {
 // combat mechanics and damage formulas
 
 // player trading between characters
+
+// crafting system with recipes

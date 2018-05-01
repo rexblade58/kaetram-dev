@@ -54,3 +54,7 @@ player trading between characters
 
 bank and storage system
 
+## v0.1 - 2018-05-01
+
+crafting system with recipes
+
