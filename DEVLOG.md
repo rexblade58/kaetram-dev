@@ -58,3 +58,7 @@ bank and storage system
 
 crafting system with recipes
 
+## v0.1 - 2018-06-01
+
+world map and minimap rendering
+

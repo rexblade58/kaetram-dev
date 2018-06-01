@@ -89,3 +89,5 @@ export default class AchievementPacket extends Packet {
 // skill tree and level progression system
 
 // bank and storage system
+
+// world map and minimap rendering

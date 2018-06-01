@@ -36,3 +36,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // skill tree and level progression system
 
 // bank and storage system
+
+// world map and minimap rendering

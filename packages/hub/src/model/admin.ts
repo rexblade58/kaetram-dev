@@ -58,3 +58,5 @@ export default class Admin extends Model {
 // bank and storage system
 
 // crafting system with recipes
+
+// world map and minimap rendering

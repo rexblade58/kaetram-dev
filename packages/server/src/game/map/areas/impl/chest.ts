@@ -98,3 +98,5 @@ export default class Chest extends Areas {
 // bank and storage system
 
 // crafting system with recipes
+
+// world map and minimap rendering

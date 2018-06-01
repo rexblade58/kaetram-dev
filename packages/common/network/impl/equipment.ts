@@ -75,3 +75,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // bank and storage system
 
 // crafting system with recipes
+
+// world map and minimap rendering
