@@ -26,3 +26,5 @@ export interface SerializedEffects {
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics

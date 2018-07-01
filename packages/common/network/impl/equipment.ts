@@ -77,3 +77,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // crafting system with recipes
 
 // world map and minimap rendering
+
+// boss fights with special mechanics

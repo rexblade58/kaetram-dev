@@ -60,3 +60,5 @@ export default class Admin extends Model {
 // crafting system with recipes
 
 // world map and minimap rendering
+
+// boss fights with special mechanics

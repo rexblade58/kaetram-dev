@@ -62,3 +62,7 @@ crafting system with recipes
 
 world map and minimap rendering
 
+## v0.1 - 2018-07-01
+
+boss fights with special mechanics
+

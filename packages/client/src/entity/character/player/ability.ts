@@ -42,3 +42,5 @@ export default class Ability {
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics

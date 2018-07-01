@@ -18,3 +18,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics

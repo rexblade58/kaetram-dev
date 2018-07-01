@@ -189,3 +189,5 @@ export default class ProgramData {
 // crafting system with recipes
 
 // world map and minimap rendering
+
+// boss fights with special mechanics

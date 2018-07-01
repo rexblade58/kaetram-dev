@@ -272,3 +272,5 @@ export default class ResourceSkill extends Skill {
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics

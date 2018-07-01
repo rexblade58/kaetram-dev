@@ -1267,3 +1267,5 @@ export default abstract class Character extends Entity {
 // crafting system with recipes
 
 // world map and minimap rendering
+
+// boss fights with special mechanics

@@ -24,3 +24,5 @@ export default class FirePotion implements Plugin {
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics

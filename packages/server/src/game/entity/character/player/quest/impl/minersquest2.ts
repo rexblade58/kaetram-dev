@@ -20,3 +20,5 @@ export default class MinersQuest2 extends Quest {
 // player trading between characters
 
 // crafting system with recipes
+
+// boss fights with special mechanics
