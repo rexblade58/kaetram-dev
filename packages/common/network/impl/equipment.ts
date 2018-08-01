@@ -79,3 +79,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // world map and minimap rendering
 
 // boss fights with special mechanics
+
+// party system for group play

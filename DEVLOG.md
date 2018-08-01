@@ -66,3 +66,7 @@ world map and minimap rendering
 
 boss fights with special mechanics
 
+## v0.1 - 2018-08-01
+
+party system for group play
+

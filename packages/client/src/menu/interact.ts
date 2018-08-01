@@ -132,3 +132,5 @@ export default class Interact extends Menu {
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play

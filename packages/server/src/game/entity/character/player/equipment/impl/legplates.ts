@@ -36,3 +36,5 @@ export default class Legplates extends Equipment {
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play

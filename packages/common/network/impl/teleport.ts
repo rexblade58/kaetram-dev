@@ -34,3 +34,5 @@ export default class TeleportPacket extends Packet {
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play

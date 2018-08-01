@@ -102,3 +102,5 @@ export default class Chest extends Areas {
 // world map and minimap rendering
 
 // boss fights with special mechanics
+
+// party system for group play

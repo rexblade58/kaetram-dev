@@ -38,3 +38,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play

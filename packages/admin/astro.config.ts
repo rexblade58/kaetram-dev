@@ -29,3 +29,5 @@ export default defineConfig({
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play

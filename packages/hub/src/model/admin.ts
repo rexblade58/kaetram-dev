@@ -62,3 +62,5 @@ export default class Admin extends Model {
 // world map and minimap rendering
 
 // boss fights with special mechanics
+
+// party system for group play

@@ -724,3 +724,5 @@ export default class Item extends Entity {
 // bank and storage system
 
 // world map and minimap rendering
+
+// party system for group play
