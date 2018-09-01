@@ -157,3 +157,5 @@ export default class QueenAnt extends Default {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

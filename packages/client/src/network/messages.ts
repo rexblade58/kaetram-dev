@@ -538,3 +538,5 @@ export default class Messages {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

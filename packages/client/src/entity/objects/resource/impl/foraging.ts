@@ -23,3 +23,5 @@ export default class Foraging extends Resource {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

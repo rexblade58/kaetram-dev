@@ -20,3 +20,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

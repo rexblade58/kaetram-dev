@@ -23,3 +23,5 @@ export default class Cooking extends Skill {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

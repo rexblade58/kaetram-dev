@@ -193,3 +193,5 @@ export default class ProgramData {
 // boss fights with special mechanics
 
 // party system for group play
+
+// guild creation and management

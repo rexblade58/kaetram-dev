@@ -22,3 +22,5 @@ export default class MinersQuest2 extends Quest {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

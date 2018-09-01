@@ -43,3 +43,5 @@ export default class SkillPacket extends Packet {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

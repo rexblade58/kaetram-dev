@@ -64,3 +64,5 @@ export default class Admin extends Model {
 // boss fights with special mechanics
 
 // party system for group play
+
+// guild creation and management

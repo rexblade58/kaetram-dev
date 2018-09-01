@@ -70,3 +70,7 @@ boss fights with special mechanics
 
 party system for group play
 
+## v0.1 - 2018-09-01
+
+guild creation and management
+

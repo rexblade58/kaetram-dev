@@ -36,3 +36,5 @@ export default class Boots extends Equipment {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management

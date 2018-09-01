@@ -1271,3 +1271,5 @@ export default abstract class Character extends Entity {
 // boss fights with special mechanics
 
 // party system for group play
+
+// guild creation and management

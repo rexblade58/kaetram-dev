@@ -90,3 +90,5 @@ export default class Projectile extends Entity {
 // crafting system with recipes
 
 // boss fights with special mechanics
+
+// guild creation and management
