@@ -1273,3 +1273,5 @@ export default abstract class Character extends Entity {
 // party system for group play
 
 // guild creation and management
+
+// auction house and economy system

@@ -40,3 +40,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // world map and minimap rendering
 
 // party system for group play
+
+// auction house and economy system

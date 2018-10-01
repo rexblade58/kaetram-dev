@@ -66,3 +66,5 @@ export default class Admin extends Model {
 // party system for group play
 
 // guild creation and management
+
+// auction house and economy system

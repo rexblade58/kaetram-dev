@@ -93,3 +93,5 @@ export default class AchievementPacket extends Packet {
 // world map and minimap rendering
 
 // party system for group play
+
+// auction house and economy system

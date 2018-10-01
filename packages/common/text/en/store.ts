@@ -33,3 +33,5 @@ export default {
 // world map and minimap rendering
 
 // party system for group play
+
+// auction house and economy system

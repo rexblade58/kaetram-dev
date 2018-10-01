@@ -83,3 +83,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // party system for group play
 
 // guild creation and management
+
+// auction house and economy system

@@ -69,3 +69,5 @@ export default class Welcome extends Menu {
 // world map and minimap rendering
 
 // party system for group play
+
+// auction house and economy system

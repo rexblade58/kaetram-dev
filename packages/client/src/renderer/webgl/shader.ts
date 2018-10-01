@@ -195,3 +195,5 @@ export default class ProgramData {
 // party system for group play
 
 // guild creation and management
+
+// auction house and economy system

@@ -106,3 +106,5 @@ export default class Chest extends Areas {
 // party system for group play
 
 // guild creation and management
+
+// auction house and economy system

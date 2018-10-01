@@ -32,3 +32,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // world map and minimap rendering
 
 // party system for group play
+
+// auction house and economy system

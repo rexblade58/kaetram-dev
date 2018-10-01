@@ -74,3 +74,7 @@ party system for group play
 
 guild creation and management
 
+## v0.1 - 2018-10-01
+
+auction house and economy system
+
