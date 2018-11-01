@@ -68,3 +68,5 @@ export default class Admin extends Model {
 // guild creation and management
 
 // auction house and economy system
+
+// daily quests and achievements

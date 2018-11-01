@@ -22,3 +22,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

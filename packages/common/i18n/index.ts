@@ -31,3 +31,5 @@ export * from './options';
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

@@ -276,3 +276,5 @@ export default class ResourceSkill extends Skill {
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

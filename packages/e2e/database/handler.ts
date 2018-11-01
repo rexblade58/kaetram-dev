@@ -78,3 +78,5 @@ export default class Handler {
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

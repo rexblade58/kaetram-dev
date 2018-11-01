@@ -108,3 +108,5 @@ export default class Chest extends Areas {
 // guild creation and management
 
 // auction house and economy system
+
+// daily quests and achievements

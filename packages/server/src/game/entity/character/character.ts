@@ -1275,3 +1275,5 @@ export default abstract class Character extends Entity {
 // guild creation and management
 
 // auction house and economy system
+
+// daily quests and achievements

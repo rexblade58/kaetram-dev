@@ -197,3 +197,5 @@ export default class ProgramData {
 // guild creation and management
 
 // auction house and economy system
+
+// daily quests and achievements

@@ -159,3 +159,5 @@ export default class QueenAnt extends Default {
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

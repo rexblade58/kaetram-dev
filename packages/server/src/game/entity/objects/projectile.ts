@@ -92,3 +92,5 @@ export default class Projectile extends Entity {
 // boss fights with special mechanics
 
 // guild creation and management
+
+// daily quests and achievements

@@ -85,3 +85,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // guild creation and management
 
 // auction house and economy system
+
+// daily quests and achievements

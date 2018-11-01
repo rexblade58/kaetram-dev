@@ -78,3 +78,7 @@ guild creation and management
 
 auction house and economy system
 
+## v0.1 - 2018-11-01
+
+daily quests and achievements
+
