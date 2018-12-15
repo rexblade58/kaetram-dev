@@ -728,3 +728,5 @@ export default class Item extends Entity {
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

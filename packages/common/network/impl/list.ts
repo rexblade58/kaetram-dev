@@ -18,3 +18,5 @@ export default class ListPacket extends Packet {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

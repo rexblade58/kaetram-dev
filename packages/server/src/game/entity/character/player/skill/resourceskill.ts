@@ -278,3 +278,5 @@ export default class ResourceSkill extends Skill {
 // guild creation and management
 
 // daily quests and achievements
+
+// performance optimization for scale

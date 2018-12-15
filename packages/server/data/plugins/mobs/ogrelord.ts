@@ -114,3 +114,5 @@ export default class OgreLord extends Default {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

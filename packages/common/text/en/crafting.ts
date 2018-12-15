@@ -36,3 +36,5 @@ export default {
 };
 
 // packet serialization optimization
+
+// performance optimization for scale

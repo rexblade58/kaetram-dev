@@ -19,3 +19,5 @@ export default class PointsPacket extends Packet {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

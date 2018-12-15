@@ -95,3 +95,5 @@ export default class AchievementPacket extends Packet {
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

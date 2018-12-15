@@ -35,3 +35,5 @@ export default class Signs {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

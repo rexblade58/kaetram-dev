@@ -24,3 +24,5 @@ export interface SlotData {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

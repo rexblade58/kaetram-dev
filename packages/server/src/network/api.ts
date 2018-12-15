@@ -103,3 +103,5 @@ export default class API {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

@@ -24,3 +24,5 @@ export default class HotShot extends Ability {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

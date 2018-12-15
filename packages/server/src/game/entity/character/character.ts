@@ -1277,3 +1277,5 @@ export default abstract class Character extends Entity {
 // auction house and economy system
 
 // daily quests and achievements
+
+// performance optimization for scale

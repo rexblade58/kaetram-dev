@@ -124,3 +124,5 @@ export default class Handler {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

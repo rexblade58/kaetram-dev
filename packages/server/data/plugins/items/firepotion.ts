@@ -30,3 +30,5 @@ export default class FirePotion implements Plugin {
 // guild creation and management
 
 // daily quests and achievements
+
+// performance optimization for scale

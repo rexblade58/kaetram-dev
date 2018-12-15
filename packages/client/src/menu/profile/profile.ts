@@ -181,3 +181,5 @@ export default class Profile extends Menu {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

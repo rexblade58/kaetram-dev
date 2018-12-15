@@ -11,3 +11,5 @@ export default class Defense extends Skill {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

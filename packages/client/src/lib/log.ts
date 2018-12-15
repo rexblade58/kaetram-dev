@@ -42,3 +42,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

@@ -96,3 +96,5 @@ export default class Blob {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

@@ -175,3 +175,5 @@ export default class Slot {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

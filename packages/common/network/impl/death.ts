@@ -11,3 +11,5 @@ export default class DeathPacket extends Packet {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

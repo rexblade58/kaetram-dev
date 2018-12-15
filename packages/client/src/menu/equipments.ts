@@ -412,3 +412,5 @@ export default class Equipments extends Menu {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

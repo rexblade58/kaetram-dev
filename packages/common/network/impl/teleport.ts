@@ -38,3 +38,5 @@ export default class TeleportPacket extends Packet {
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

@@ -199,3 +199,5 @@ export default class ProgramData {
 // auction house and economy system
 
 // daily quests and achievements
+
+// performance optimization for scale

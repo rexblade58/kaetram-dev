@@ -28,3 +28,5 @@ export default class CodersGlitch extends Quest {
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

@@ -29,3 +29,5 @@ export interface HitData {
 // guild creation and management
 
 // daily quests and achievements
+
+// performance optimization for scale

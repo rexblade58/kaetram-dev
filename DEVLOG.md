@@ -82,3 +82,7 @@ auction house and economy system
 
 daily quests and achievements
 
+## v0.1 - 2018-12-15
+
+performance optimization for scale
+

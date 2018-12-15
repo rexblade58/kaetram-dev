@@ -27,3 +27,5 @@ export default {
 // party system for group play
 
 // auction house and economy system
+
+// performance optimization for scale

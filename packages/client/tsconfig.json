@@ -1,3 +1,5 @@
 { "extends": "../../tsconfig.json" }
 
 // packet serialization optimization
+
+// performance optimization for scale

@@ -7,3 +7,5 @@ export default {
 } as const;
 
 // packet serialization optimization
+
+// performance optimization for scale

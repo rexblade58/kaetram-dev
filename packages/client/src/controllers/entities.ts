@@ -654,3 +654,5 @@ export default class EntitiesController {
 // guild creation and management
 
 // daily quests and achievements
+
+// performance optimization for scale

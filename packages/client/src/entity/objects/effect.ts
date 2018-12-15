@@ -21,3 +21,5 @@ export default class Effect extends Entity {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale

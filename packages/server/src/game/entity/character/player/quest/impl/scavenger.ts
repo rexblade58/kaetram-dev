@@ -8,3 +8,5 @@ export default class Scavenger extends Quest {
 }
 
 // packet serialization optimization
+
+// performance optimization for scale
