@@ -87,3 +87,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // auction house and economy system
 
 // daily quests and achievements
+
+// server-side input validation

@@ -136,3 +136,5 @@ export default class Interact extends Menu {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

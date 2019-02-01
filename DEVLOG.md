@@ -86,3 +86,7 @@ daily quests and achievements
 
 performance optimization for scale
 
+## v0.1 - 2019-02-01
+
+server-side input validation
+

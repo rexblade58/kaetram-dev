@@ -29,3 +29,5 @@ export default class Magic extends Skill {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

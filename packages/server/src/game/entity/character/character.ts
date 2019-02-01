@@ -1279,3 +1279,5 @@ export default abstract class Character extends Entity {
 // daily quests and achievements
 
 // performance optimization for scale
+
+// server-side input validation

@@ -33,3 +33,5 @@ export default defineConfig({
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

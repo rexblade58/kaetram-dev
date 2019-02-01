@@ -97,3 +97,5 @@ export default class AchievementPacket extends Packet {
 // auction house and economy system
 
 // performance optimization for scale
+
+// server-side input validation

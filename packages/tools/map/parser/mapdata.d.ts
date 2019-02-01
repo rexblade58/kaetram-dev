@@ -125,3 +125,5 @@ export interface MapData {
 // auction house and economy system
 
 // performance optimization for scale
+
+// server-side input validation

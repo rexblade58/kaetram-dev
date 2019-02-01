@@ -71,3 +71,5 @@ export default class Welcome extends Menu {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

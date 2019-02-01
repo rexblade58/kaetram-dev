@@ -45,3 +45,5 @@ export default class NPCPacket extends Packet {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

@@ -40,3 +40,5 @@ export default class Legplates extends Equipment {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

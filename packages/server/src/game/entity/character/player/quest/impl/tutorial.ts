@@ -45,3 +45,5 @@ export default class Tutorial extends Quest {
 // party system for group play
 
 // auction house and economy system
+
+// server-side input validation

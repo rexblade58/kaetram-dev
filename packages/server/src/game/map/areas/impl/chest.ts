@@ -110,3 +110,5 @@ export default class Chest extends Areas {
 // auction house and economy system
 
 // daily quests and achievements
+
+// server-side input validation
