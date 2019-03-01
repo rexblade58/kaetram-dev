@@ -24,3 +24,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

@@ -161,3 +161,5 @@ export default class QueenAnt extends Default {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

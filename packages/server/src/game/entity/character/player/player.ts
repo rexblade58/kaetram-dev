@@ -2739,3 +2739,5 @@ export default class Player extends Character {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

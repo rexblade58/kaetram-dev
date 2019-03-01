@@ -112,3 +112,5 @@ export default class Chest extends Areas {
 // daily quests and achievements
 
 // server-side input validation
+
+// anti-cheat detection module

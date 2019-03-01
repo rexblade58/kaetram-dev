@@ -89,3 +89,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // daily quests and achievements
 
 // server-side input validation
+
+// anti-cheat detection module

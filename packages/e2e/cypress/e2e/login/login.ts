@@ -36,3 +36,5 @@ Then('I am logged in successfully', function () {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

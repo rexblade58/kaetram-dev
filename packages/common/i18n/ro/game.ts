@@ -23,3 +23,5 @@ export default {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

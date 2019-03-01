@@ -26,3 +26,5 @@ export default class MinersQuest2 extends Quest {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

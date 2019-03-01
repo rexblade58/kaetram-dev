@@ -90,3 +90,7 @@ performance optimization for scale
 
 server-side input validation
 
+## v0.1 - 2019-03-01
+
+anti-cheat detection module
+

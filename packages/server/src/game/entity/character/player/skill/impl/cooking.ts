@@ -27,3 +27,5 @@ export default class Cooking extends Skill {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

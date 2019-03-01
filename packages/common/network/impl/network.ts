@@ -35,3 +35,5 @@ export default class NetworkPacket extends Packet {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

@@ -40,3 +40,5 @@ export default class Boots extends Equipment {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

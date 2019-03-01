@@ -42,3 +42,5 @@ export default class Intimidate extends Ability {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

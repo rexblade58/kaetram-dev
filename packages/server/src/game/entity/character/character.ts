@@ -1281,3 +1281,5 @@ export default abstract class Character extends Entity {
 // performance optimization for scale
 
 // server-side input validation
+
+// anti-cheat detection module

@@ -72,3 +72,5 @@ export default class Admin extends Model {
 // daily quests and achievements
 
 // server-side input validation
+
+// anti-cheat detection module

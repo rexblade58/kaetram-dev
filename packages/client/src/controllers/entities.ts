@@ -656,3 +656,5 @@ export default class EntitiesController {
 // daily quests and achievements
 
 // performance optimization for scale
+
+// anti-cheat detection module

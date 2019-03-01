@@ -27,3 +27,5 @@ export default class Foraging extends Resource {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

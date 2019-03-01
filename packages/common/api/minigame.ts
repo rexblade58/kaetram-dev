@@ -26,3 +26,5 @@ export enum Team {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

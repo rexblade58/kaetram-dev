@@ -31,3 +31,5 @@ export interface HitData {
 // daily quests and achievements
 
 // performance optimization for scale
+
+// anti-cheat detection module

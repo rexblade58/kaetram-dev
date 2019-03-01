@@ -94,3 +94,5 @@ export default class Projectile extends Entity {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

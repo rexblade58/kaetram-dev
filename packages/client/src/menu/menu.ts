@@ -170,3 +170,5 @@ export default abstract class Menu {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module

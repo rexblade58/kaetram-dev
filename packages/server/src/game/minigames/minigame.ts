@@ -240,3 +240,5 @@ export default class Minigame {
 // guild creation and management
 
 // daily quests and achievements
+
+// anti-cheat detection module
