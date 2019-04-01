@@ -1283,3 +1283,5 @@ export default abstract class Character extends Entity {
 // server-side input validation
 
 // anti-cheat detection module
+
+// admin panel with moderation tools

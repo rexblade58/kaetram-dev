@@ -37,3 +37,5 @@ export default class Knife implements Plugin {
 // auction house and economy system
 
 // server-side input validation
+
+// admin panel with moderation tools

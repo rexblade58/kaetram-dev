@@ -91,3 +91,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // server-side input validation
 
 // anti-cheat detection module
+
+// admin panel with moderation tools

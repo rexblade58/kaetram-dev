@@ -94,3 +94,7 @@ server-side input validation
 
 anti-cheat detection module
 
+## v0.1 - 2019-04-01
+
+admin panel with moderation tools
+

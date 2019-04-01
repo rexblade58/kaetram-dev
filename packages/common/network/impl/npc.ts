@@ -47,3 +47,5 @@ export default class NPCPacket extends Packet {
 // auction house and economy system
 
 // server-side input validation
+
+// admin panel with moderation tools

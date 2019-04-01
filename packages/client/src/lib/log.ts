@@ -46,3 +46,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // performance optimization for scale
 
 // server-side input validation
+
+// admin panel with moderation tools
