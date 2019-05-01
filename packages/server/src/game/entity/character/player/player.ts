@@ -2741,3 +2741,5 @@ export default class Player extends Character {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

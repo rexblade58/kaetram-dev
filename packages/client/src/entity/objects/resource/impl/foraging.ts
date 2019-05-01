@@ -29,3 +29,5 @@ export default class Foraging extends Resource {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

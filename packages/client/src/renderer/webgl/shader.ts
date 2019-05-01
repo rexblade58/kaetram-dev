@@ -207,3 +207,5 @@ export default class ProgramData {
 // anti-cheat detection module
 
 // admin panel with moderation tools
+
+// auto-save and crash recovery

@@ -172,3 +172,5 @@ export default abstract class Menu {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

@@ -33,3 +33,5 @@ export interface HitData {
 // performance optimization for scale
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

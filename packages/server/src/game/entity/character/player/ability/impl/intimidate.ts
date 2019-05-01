@@ -44,3 +44,5 @@ export default class Intimidate extends Ability {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

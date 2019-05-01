@@ -98,3 +98,7 @@ anti-cheat detection module
 
 admin panel with moderation tools
 
+## v0.1 - 2019-05-01
+
+auto-save and crash recovery
+

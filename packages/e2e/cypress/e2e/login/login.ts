@@ -38,3 +38,5 @@ Then('I am logged in successfully', function () {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

@@ -76,3 +76,5 @@ export default class Admin extends Model {
 // anti-cheat detection module
 
 // admin panel with moderation tools
+
+// auto-save and crash recovery

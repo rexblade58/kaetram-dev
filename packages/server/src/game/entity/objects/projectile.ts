@@ -96,3 +96,5 @@ export default class Projectile extends Entity {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

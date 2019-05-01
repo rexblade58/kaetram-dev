@@ -282,3 +282,5 @@ export default class ResourceSkill extends Skill {
 // performance optimization for scale
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

@@ -29,3 +29,5 @@ export default {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

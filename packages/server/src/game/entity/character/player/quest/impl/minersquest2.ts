@@ -28,3 +28,5 @@ export default class MinersQuest2 extends Quest {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

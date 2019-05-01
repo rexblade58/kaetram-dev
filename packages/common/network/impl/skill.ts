@@ -49,3 +49,5 @@ export default class SkillPacket extends Packet {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

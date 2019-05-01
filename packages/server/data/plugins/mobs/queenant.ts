@@ -163,3 +163,5 @@ export default class QueenAnt extends Default {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

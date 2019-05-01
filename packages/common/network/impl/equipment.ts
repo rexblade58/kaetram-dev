@@ -93,3 +93,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // anti-cheat detection module
 
 // admin panel with moderation tools
+
+// auto-save and crash recovery

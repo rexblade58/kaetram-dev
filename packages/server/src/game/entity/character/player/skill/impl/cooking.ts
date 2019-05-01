@@ -29,3 +29,5 @@ export default class Cooking extends Skill {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery

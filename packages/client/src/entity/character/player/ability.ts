@@ -50,3 +50,5 @@ export default class Ability {
 // daily quests and achievements
 
 // anti-cheat detection module
+
+// auto-save and crash recovery
