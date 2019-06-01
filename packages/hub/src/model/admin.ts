@@ -78,3 +78,5 @@ export default class Admin extends Model {
 // admin panel with moderation tools
 
 // auto-save and crash recovery
+
+// localization and multiple languages

@@ -48,3 +48,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages

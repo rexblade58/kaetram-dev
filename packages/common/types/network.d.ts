@@ -38,3 +38,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages

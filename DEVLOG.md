@@ -102,3 +102,7 @@ admin panel with moderation tools
 
 auto-save and crash recovery
 
+## v0.1 - 2019-06-01
+
+localization and multiple languages
+

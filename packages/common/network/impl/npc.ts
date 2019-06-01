@@ -49,3 +49,5 @@ export default class NPCPacket extends Packet {
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages

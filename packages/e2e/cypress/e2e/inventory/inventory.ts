@@ -62,3 +62,5 @@ Then(
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages

@@ -49,3 +49,5 @@ export default class Tutorial extends Quest {
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages

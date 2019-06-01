@@ -118,3 +118,5 @@ export default class Chest extends Areas {
 // admin panel with moderation tools
 
 // auto-save and crash recovery
+
+// localization and multiple languages

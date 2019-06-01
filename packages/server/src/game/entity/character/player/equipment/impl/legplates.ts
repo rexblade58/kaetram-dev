@@ -44,3 +44,5 @@ export default class Legplates extends Equipment {
 // server-side input validation
 
 // admin panel with moderation tools
+
+// localization and multiple languages
