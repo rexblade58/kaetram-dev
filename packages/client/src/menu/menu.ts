@@ -174,3 +174,5 @@ export default abstract class Menu {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

@@ -80,3 +80,5 @@ export default class Admin extends Model {
 // auto-save and crash recovery
 
 // localization and multiple languages
+
+// seasonal event system

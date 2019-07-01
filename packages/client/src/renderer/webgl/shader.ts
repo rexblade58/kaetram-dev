@@ -211,3 +211,5 @@ export default class ProgramData {
 // auto-save and crash recovery
 
 // localization and multiple languages
+
+// seasonal event system

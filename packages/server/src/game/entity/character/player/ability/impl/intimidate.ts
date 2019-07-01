@@ -46,3 +46,5 @@ export default class Intimidate extends Ability {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

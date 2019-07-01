@@ -51,3 +51,5 @@ export default class SkillPacket extends Packet {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

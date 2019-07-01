@@ -40,3 +40,5 @@ Then('I am logged in successfully', function () {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

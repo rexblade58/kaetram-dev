@@ -31,3 +31,5 @@ export default class Cooking extends Skill {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

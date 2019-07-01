@@ -30,3 +30,5 @@ export default class MinersQuest2 extends Quest {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

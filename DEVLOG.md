@@ -106,3 +106,7 @@ auto-save and crash recovery
 
 localization and multiple languages
 
+## v0.1 - 2019-07-01
+
+seasonal event system
+

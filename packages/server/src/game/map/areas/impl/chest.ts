@@ -120,3 +120,5 @@ export default class Chest extends Areas {
 // auto-save and crash recovery
 
 // localization and multiple languages
+
+// seasonal event system

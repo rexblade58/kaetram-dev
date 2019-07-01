@@ -39,3 +39,5 @@ export default class NetworkPacket extends Packet {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

@@ -97,3 +97,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // auto-save and crash recovery
 
 // localization and multiple languages
+
+// seasonal event system

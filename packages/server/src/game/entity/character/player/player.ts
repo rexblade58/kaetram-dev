@@ -2743,3 +2743,5 @@ export default class Player extends Character {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

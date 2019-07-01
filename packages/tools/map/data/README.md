@@ -28,3 +28,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

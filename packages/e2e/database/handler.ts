@@ -84,3 +84,5 @@ export default class Handler {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system

@@ -33,3 +33,5 @@ export default class BlinkPacket extends Packet {
 // anti-cheat detection module
 
 // auto-save and crash recovery
+
+// seasonal event system
