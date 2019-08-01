@@ -39,3 +39,5 @@ export default defineConfig({
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

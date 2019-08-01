@@ -110,3 +110,7 @@ localization and multiple languages
 
 seasonal event system
 
+## v0.1 - 2019-08-01
+
+hub server for cross-server communication
+

@@ -51,3 +51,5 @@ export default class NPCPacket extends Packet {
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

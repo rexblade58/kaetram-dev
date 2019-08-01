@@ -122,3 +122,5 @@ export default class Chest extends Areas {
 // localization and multiple languages
 
 // seasonal event system
+
+// hub server for cross-server communication

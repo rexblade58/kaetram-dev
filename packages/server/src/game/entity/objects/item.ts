@@ -736,3 +736,5 @@ export default class Item extends Entity {
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

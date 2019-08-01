@@ -213,3 +213,5 @@ export default class ProgramData {
 // localization and multiple languages
 
 // seasonal event system
+
+// hub server for cross-server communication

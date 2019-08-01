@@ -142,3 +142,5 @@ export default class Interact extends Menu {
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

@@ -46,3 +46,5 @@ export default class TeleportPacket extends Packet {
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

@@ -1291,3 +1291,5 @@ export default abstract class Character extends Entity {
 // localization and multiple languages
 
 // seasonal event system
+
+// hub server for cross-server communication

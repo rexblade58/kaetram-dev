@@ -40,3 +40,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // admin panel with moderation tools
 
 // localization and multiple languages
+
+// hub server for cross-server communication

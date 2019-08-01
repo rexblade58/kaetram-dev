@@ -99,3 +99,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // localization and multiple languages
 
 // seasonal event system
+
+// hub server for cross-server communication
