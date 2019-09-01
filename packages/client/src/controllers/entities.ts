@@ -662,3 +662,5 @@ export default class EntitiesController {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

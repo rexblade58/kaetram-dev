@@ -33,3 +33,5 @@ export default class Foraging extends Resource {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

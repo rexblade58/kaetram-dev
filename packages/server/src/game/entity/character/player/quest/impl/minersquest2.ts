@@ -32,3 +32,5 @@ export default class MinersQuest2 extends Quest {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

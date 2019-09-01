@@ -101,3 +101,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // seasonal event system
 
 // hub server for cross-server communication
+
+// procedural dungeon generation

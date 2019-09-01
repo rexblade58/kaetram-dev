@@ -46,3 +46,5 @@ export default class Boots extends Equipment {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

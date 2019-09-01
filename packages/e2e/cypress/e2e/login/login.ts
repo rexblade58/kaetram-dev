@@ -42,3 +42,5 @@ Then('I am logged in successfully', function () {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

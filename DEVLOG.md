@@ -114,3 +114,7 @@ seasonal event system
 
 hub server for cross-server communication
 
+## v0.1 - 2019-09-01
+
+procedural dungeon generation
+

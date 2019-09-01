@@ -2745,3 +2745,5 @@ export default class Player extends Character {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

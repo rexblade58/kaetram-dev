@@ -100,3 +100,5 @@ export default class Projectile extends Entity {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation

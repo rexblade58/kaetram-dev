@@ -38,3 +38,5 @@ export default class FirePotion implements Plugin {
 // auto-save and crash recovery
 
 // seasonal event system
+
+// procedural dungeon generation
