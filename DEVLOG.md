@@ -118,3 +118,7 @@ hub server for cross-server communication
 
 procedural dungeon generation
 
+## v0.1 - 2019-10-01
+
+database query optimization with caching
+

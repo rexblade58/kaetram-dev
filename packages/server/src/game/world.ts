@@ -356,3 +356,5 @@ export default class World {
 // localization and multiple languages
 
 // hub server for cross-server communication
+
+// database query optimization with caching

@@ -103,3 +103,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // hub server for cross-server communication
 
 // procedural dungeon generation
+
+// database query optimization with caching

@@ -86,3 +86,5 @@ export default class Admin extends Model {
 // hub server for cross-server communication
 
 // procedural dungeon generation
+
+// database query optimization with caching

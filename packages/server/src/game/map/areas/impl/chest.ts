@@ -126,3 +126,5 @@ export default class Chest extends Areas {
 // hub server for cross-server communication
 
 // procedural dungeon generation
+
+// database query optimization with caching
