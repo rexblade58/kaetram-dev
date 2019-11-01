@@ -219,3 +219,5 @@ export default class ProgramData {
 // procedural dungeon generation
 
 // database query optimization with caching
+
+// WebSocket compression for bandwidth

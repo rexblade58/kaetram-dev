@@ -37,3 +37,5 @@ export default class BlinkPacket extends Packet {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

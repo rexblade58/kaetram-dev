@@ -43,3 +43,5 @@ Any modification to the code indicates that you have read these licenses and agr
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

@@ -105,3 +105,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // procedural dungeon generation
 
 // database query optimization with caching
+
+// WebSocket compression for bandwidth

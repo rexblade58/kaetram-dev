@@ -128,3 +128,5 @@ export default class Chest extends Areas {
 // procedural dungeon generation
 
 // database query optimization with caching
+
+// WebSocket compression for bandwidth

@@ -122,3 +122,7 @@ procedural dungeon generation
 
 database query optimization with caching
 
+## v0.1 - 2019-11-01
+
+WebSocket compression for bandwidth
+

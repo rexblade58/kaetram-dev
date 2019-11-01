@@ -39,3 +39,5 @@ export interface HitData {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

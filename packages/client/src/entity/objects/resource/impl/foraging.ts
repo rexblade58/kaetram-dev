@@ -35,3 +35,5 @@ export default class Foraging extends Resource {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

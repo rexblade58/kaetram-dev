@@ -169,3 +169,5 @@ export default class QueenAnt extends Default {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

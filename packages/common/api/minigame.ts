@@ -34,3 +34,5 @@ export enum Team {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

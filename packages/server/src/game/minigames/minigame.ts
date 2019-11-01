@@ -248,3 +248,5 @@ export default class Minigame {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

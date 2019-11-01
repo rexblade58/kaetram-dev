@@ -48,3 +48,5 @@ export default class Boots extends Equipment {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

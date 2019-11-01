@@ -44,3 +44,5 @@ Then('I am logged in successfully', function () {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

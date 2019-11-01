@@ -40,3 +40,5 @@ export default class FirePotion implements Plugin {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

@@ -550,3 +550,5 @@ export default class Messages {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

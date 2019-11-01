@@ -288,3 +288,5 @@ export default class ResourceSkill extends Skill {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

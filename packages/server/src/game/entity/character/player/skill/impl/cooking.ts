@@ -35,3 +35,5 @@ export default class Cooking extends Skill {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

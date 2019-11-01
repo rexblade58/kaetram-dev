@@ -43,3 +43,5 @@ export default class NetworkPacket extends Packet {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

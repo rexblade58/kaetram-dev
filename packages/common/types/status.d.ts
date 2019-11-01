@@ -40,3 +40,5 @@ export interface SerializedEffects {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

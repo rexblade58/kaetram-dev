@@ -34,3 +34,5 @@ export default class MinersQuest2 extends Quest {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

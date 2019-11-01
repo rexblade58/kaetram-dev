@@ -32,3 +32,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

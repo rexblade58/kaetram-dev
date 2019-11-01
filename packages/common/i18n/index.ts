@@ -41,3 +41,5 @@ export * from './options';
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

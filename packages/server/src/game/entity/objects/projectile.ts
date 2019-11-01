@@ -102,3 +102,5 @@ export default class Projectile extends Entity {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

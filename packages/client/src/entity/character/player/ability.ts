@@ -56,3 +56,5 @@ export default class Ability {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

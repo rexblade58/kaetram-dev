@@ -1297,3 +1297,5 @@ export default abstract class Character extends Entity {
 // procedural dungeon generation
 
 // database query optimization with caching
+
+// WebSocket compression for bandwidth

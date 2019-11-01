@@ -88,3 +88,5 @@ export default class Handler {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

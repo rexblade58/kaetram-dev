@@ -91,3 +91,5 @@ export default class Tile {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

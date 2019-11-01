@@ -2747,3 +2747,5 @@ export default class Player extends Character {
 // seasonal event system
 
 // procedural dungeon generation
+
+// WebSocket compression for bandwidth

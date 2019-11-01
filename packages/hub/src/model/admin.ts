@@ -88,3 +88,5 @@ export default class Admin extends Model {
 // procedural dungeon generation
 
 // database query optimization with caching
+
+// WebSocket compression for bandwidth
