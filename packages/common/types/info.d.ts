@@ -41,3 +41,5 @@ export interface HitData {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// end-to-end tests and v1.0 release

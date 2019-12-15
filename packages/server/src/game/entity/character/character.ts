@@ -1299,3 +1299,5 @@ export default abstract class Character extends Entity {
 // database query optimization with caching
 
 // WebSocket compression for bandwidth
+
+// end-to-end tests and v1.0 release

@@ -50,3 +50,5 @@ export default class TeleportPacket extends Packet {
 // hub server for cross-server communication
 
 // database query optimization with caching
+
+// end-to-end tests and v1.0 release

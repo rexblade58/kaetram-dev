@@ -260,3 +260,5 @@ export default class Weapon extends Equipment {
 // packet serialization optimization
 
 // performance optimization for scale
+
+// end-to-end tests and v1.0 release

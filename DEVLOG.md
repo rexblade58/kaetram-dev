@@ -126,3 +126,7 @@ database query optimization with caching
 
 WebSocket compression for bandwidth
 
+## v0.1 - 2019-12-15
+
+end-to-end tests and v1.0 release
+

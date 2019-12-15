@@ -42,3 +42,5 @@ export default class FirePotion implements Plugin {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// end-to-end tests and v1.0 release
