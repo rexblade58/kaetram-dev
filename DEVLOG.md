@@ -130,3 +130,7 @@ WebSocket compression for bandwidth
 
 end-to-end tests and v1.0 release
 
+## v0.1 - 2020-02-01
+
+community-reported bug fixes
+

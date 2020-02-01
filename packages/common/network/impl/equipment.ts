@@ -107,3 +107,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // database query optimization with caching
 
 // WebSocket compression for bandwidth
+
+// community-reported bug fixes

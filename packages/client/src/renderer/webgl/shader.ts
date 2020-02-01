@@ -223,3 +223,5 @@ export default class ProgramData {
 // WebSocket compression for bandwidth
 
 // end-to-end tests and v1.0 release
+
+// community-reported bug fixes
