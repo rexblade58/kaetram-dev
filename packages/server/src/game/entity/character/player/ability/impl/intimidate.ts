@@ -52,3 +52,5 @@ export default class Intimidate extends Ability {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

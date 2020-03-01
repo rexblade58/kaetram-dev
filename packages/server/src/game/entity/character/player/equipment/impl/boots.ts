@@ -50,3 +50,5 @@ export default class Boots extends Equipment {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

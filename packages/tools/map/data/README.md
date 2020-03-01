@@ -34,3 +34,5 @@ https://github.com/Kaetram/Kaetram-Open/wiki/Game-Map
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

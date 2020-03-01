@@ -250,3 +250,5 @@ export default class Minigame {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

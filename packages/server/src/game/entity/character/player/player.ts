@@ -2749,3 +2749,5 @@ export default class Player extends Character {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

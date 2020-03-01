@@ -552,3 +552,5 @@ export default class Messages {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

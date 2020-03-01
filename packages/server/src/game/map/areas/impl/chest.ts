@@ -132,3 +132,5 @@ export default class Chest extends Areas {
 // WebSocket compression for bandwidth
 
 // community-reported bug fixes
+
+// PvP combat balance adjustments

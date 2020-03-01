@@ -93,3 +93,5 @@ export default class Tile {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

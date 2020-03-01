@@ -36,3 +36,5 @@ export enum Team {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

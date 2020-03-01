@@ -36,3 +36,5 @@ export default class MinersQuest2 extends Quest {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

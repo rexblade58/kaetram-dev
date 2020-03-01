@@ -42,3 +42,5 @@ export interface SerializedEffects {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

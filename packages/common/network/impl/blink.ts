@@ -39,3 +39,5 @@ export default class BlinkPacket extends Packet {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

@@ -57,3 +57,5 @@ export default class SkillPacket extends Packet {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

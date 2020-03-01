@@ -171,3 +171,5 @@ export default class QueenAnt extends Default {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

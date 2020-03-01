@@ -37,3 +37,5 @@ export default class Foraging extends Resource {
 // procedural dungeon generation
 
 // WebSocket compression for bandwidth
+
+// PvP combat balance adjustments

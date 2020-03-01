@@ -134,3 +134,7 @@ end-to-end tests and v1.0 release
 
 community-reported bug fixes
 
+## v0.1 - 2020-03-01
+
+PvP combat balance adjustments
+

@@ -109,3 +109,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // WebSocket compression for bandwidth
 
 // community-reported bug fixes
+
+// PvP combat balance adjustments
