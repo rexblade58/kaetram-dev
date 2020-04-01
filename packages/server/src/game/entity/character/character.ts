@@ -1305,3 +1305,5 @@ export default abstract class Character extends Entity {
 // community-reported bug fixes
 
 // PvP combat balance adjustments
+
+// new quest content and NPC dialogue

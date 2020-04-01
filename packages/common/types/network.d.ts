@@ -46,3 +46,5 @@ export type MessageCallback = (message: [Packets, never, never]) => void;
 // database query optimization with caching
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

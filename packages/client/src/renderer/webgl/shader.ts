@@ -227,3 +227,5 @@ export default class ProgramData {
 // community-reported bug fixes
 
 // PvP combat balance adjustments
+
+// new quest content and NPC dialogue

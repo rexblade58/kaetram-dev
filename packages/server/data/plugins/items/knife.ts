@@ -47,3 +47,5 @@ export default class Knife implements Plugin {
 // database query optimization with caching
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

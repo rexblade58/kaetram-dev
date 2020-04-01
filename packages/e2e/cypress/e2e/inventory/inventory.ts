@@ -72,3 +72,5 @@ Then(
 // end-to-end tests and v1.0 release
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

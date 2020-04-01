@@ -111,3 +111,5 @@ export default class EquipmentPacket<O extends Opcodes.Equipment> extends Packet
 // community-reported bug fixes
 
 // PvP combat balance adjustments
+
+// new quest content and NPC dialogue

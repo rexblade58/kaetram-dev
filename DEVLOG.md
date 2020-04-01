@@ -138,3 +138,7 @@ community-reported bug fixes
 
 PvP combat balance adjustments
 
+## v0.1 - 2020-04-01
+
+new quest content and NPC dialogue
+

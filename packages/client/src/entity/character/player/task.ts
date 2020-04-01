@@ -87,3 +87,5 @@ export default class Task {
 // database query optimization with caching
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

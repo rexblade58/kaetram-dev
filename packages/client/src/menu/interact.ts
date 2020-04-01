@@ -148,3 +148,5 @@ export default class Interact extends Menu {
 // database query optimization with caching
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

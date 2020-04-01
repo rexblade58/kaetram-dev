@@ -111,3 +111,5 @@ export default class AchievementPacket extends Packet {
 // end-to-end tests and v1.0 release
 
 // community-reported bug fixes
+
+// new quest content and NPC dialogue

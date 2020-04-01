@@ -134,3 +134,5 @@ export default class Chest extends Areas {
 // community-reported bug fixes
 
 // PvP combat balance adjustments
+
+// new quest content and NPC dialogue
