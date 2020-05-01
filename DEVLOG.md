@@ -142,3 +142,7 @@ PvP combat balance adjustments
 
 new quest content and NPC dialogue
 
+## v0.1 - 2020-05-01
+
+server deployment and migration scripts
+

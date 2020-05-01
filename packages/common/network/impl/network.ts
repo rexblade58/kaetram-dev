@@ -47,3 +47,5 @@ export default class NetworkPacket extends Packet {
 // WebSocket compression for bandwidth
 
 // PvP combat balance adjustments
+
+// server deployment and migration scripts
