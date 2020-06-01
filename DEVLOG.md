@@ -146,3 +146,7 @@ new quest content and NPC dialogue
 
 server deployment and migration scripts
 
+## v0.1 - 2020-06-01
+
+latency measurement and handshake v2
+

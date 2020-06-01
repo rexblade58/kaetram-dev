@@ -60,3 +60,5 @@ export default new Logger(import.meta.env.DEV ? 'debug' : 'info');
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// latency measurement and handshake v2

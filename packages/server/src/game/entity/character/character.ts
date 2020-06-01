@@ -1309,3 +1309,5 @@ export default abstract class Character extends Entity {
 // new quest content and NPC dialogue
 
 // server deployment and migration scripts
+
+// latency measurement and handshake v2

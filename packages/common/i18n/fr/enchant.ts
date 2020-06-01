@@ -45,3 +45,5 @@ export default {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// latency measurement and handshake v2

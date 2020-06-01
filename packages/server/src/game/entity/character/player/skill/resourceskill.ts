@@ -296,3 +296,5 @@ export default class ResourceSkill extends Skill {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// latency measurement and handshake v2

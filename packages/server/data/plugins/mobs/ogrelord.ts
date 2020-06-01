@@ -118,3 +118,5 @@ export default class OgreLord extends Default {
 // performance optimization for scale
 
 // end-to-end tests and v1.0 release
+
+// latency measurement and handshake v2

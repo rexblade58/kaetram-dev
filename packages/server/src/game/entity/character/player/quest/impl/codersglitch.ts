@@ -46,3 +46,5 @@ export default class CodersGlitch extends Quest {
 // community-reported bug fixes
 
 // new quest content and NPC dialogue
+
+// latency measurement and handshake v2

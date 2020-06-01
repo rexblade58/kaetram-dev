@@ -47,3 +47,5 @@ export interface HitData {
 // PvP combat balance adjustments
 
 // server deployment and migration scripts
+
+// latency measurement and handshake v2
